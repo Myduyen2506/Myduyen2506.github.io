@@ -9,7 +9,7 @@
 	<h2> tôi tên là Duyên</h2>
 	<h3> Tôi đang học thiết kế Web</h3>
 	<h4> bên dưới và một hình ảnh ví dụ về HLMT: </h4>
-        <img src="277107521_505655224263171_6477270172881691054_n (1).jpg" />
+        <img src="277107521_505655224263171_6477270172881691054_n (1).jpg" width="800" height="500" />
 </body>
 </html>
   
