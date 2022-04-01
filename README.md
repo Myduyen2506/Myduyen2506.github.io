@@ -1,16 +1,5 @@
-<!DOCTYPE html>
-    <html>
-    <head>
-          <title>Xin Chào</title>
-    </head>
-    <body>
-
-          <h1>Tôi là Mỹ Duyên</h1>
-          <p>Tôi đang học Thiết kế Web.</p>
-
-</body>
-</html>
-  
+Xin chào các bạn ! 
+<h1> Tôi đang học Thiết kế Web</h1>
   
   
   
