@@ -1,5 +1,5 @@
-Xin chào các bạn ! Tôi là Duyên
-   Tôi đang học thiết kế Web với phần mền Github
-   
-   🤣🤣🤳
+Xin chào các bạn ! Tôi là Mỹ Duyên
+  Tôi đang học môn thiết kế Web 
+  
+ 
    
