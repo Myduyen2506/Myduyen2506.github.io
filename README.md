@@ -1,7 +1,6 @@
 <!DOCTYPE html>
   <html>
   <head>
-	     <title>Xin chào</title>
 	     <meta charset="utf-8">
   </head>
   <body>
