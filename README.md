@@ -1,16 +1,18 @@
 <!DOCTYPE html>
   <html>
   <head>
-	     <meta charset="utf-8">
-  </head>
-  <body>
-	     <h1>- Hình ảnh minh họa:</h1>
-	     <img src="https://static3.makeuseofimages.com/wordpress/wp-content/uploads/2017/09/HTML-Effects-Featured.jpg">
-  </body>
-  </html>
-
-  
-  
+	  <title>Xem ví dụ</title>
+	  <meta charset="utf-8">
+</head>
+<body>
+	<h1> Xin chào các bạn</h1>
+	<h2> tôi tên là Duyên</h2>
+	<h3> Tôi đang học thiết kế Web</h3>
+	<h4>- bên dưới và một hình ảnh ví dụ về HLMT: </h4>
+	
+        <img src="https://images.yourstory.com/production/document_image/mystoryimage/e67sv338-html-css.jpg?fm=png&auto=format.ipg">
+</body>
+</html>
   
   
   
