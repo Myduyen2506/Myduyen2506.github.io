@@ -22,6 +22,7 @@
 		<p> Zalo: 0357753734 </p>
 		<p> Instargram: _myduyen.2003_ </p>
 		<p> Gmail: nguyentranmyduyen25@gmail.com</p>
+		<h6> Cảm ơn mọi người đã xem 😘😘</h6>
 </body>
 </html>
   
