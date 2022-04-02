@@ -14,7 +14,7 @@
 	<P>Tình trạng: Độc thân 😎</p>
 	<p>Đang học tại trường Cao Đẳng Kỹ Thuật Công Nghệ Nha Trang</p>
 	<p> ID game: 89cb3cdb4d8588dc7bb3942b68ab8f7e </p>
-	<img scr="277460798_1056079855020629_2316965843871362634_n.jpg" width="600" height="200" />
+	<p> Tên: MyDuyenMH ^_^ </p>
 	<h4> Hình ảnh của bản thân</h4>
        <img src="271652843_652429902446767_453189311942881898_n.jpg" width="400" height="600" />
 	<h5> ⛽Liên hệ qua☎️
