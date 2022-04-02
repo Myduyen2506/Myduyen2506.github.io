@@ -1,15 +1,21 @@
-<!DOCTYPE html>
+
   <html>
   <head>
-	  <title>Xem ví dụ</title>
+	  <h1> (●'◡'●) Trang web của Nguyễn Trần Mỹ Duyên (●'◡'●)</h1>
 	  <meta charset="utf-8">
 </head>
 <body>
-	<h1> Xin chào các bạn</h1>
-	<h2> tôi tên là Duyên</h2>
-	<h3> Tôi đang học thiết kế Web</h3>
-	<h4> bên dưới và một hình ảnh ví dụ về HLMT: </h4>
-        <img src="277107521_505655224263171_6477270172881691054_n (1).jpg" width="700" height="400" />
+	<h2>Xin chào các bạn</h2>
+	<h3>Giới thiệu bản thân 🙋‍♀️</h3>
+        <p>Tôi tên là Mỹ Duyên😉 </p>
+	<p>Sinh ngày: 25.06.2003</p>
+	<p>Giới tính: Nữ</p>
+	<p>Sống tại: Diên Toàn - Diên Khánh</p>
+	<P>Tình trạng: Độc thân 😎</p>
+	<p>Đang học tại trường Cao Đẳng Kỹ Thuật Công Nghệ Nha Trang</p>
+	<h4> Hình ảnh của bản thân</h4>
+        <img src="271652843_652429902446767_453189311942881898_n.jpg" width="500" height="700" />
+	<h5> ⛽Liên hệ cho tui qua☎️
 </body>
 </html>
   
