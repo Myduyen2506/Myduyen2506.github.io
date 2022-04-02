@@ -5,7 +5,7 @@
 	  <meta charset="utf-8">
 </head>
 <body>
-	<h2>Xin chào các bạn</h2>
+	<h2>✌️ Xin chào các bạn✌️✌️ </h2>
 	<h3>Giới thiệu bản thân 🙋‍♀️</h3>
         <p>Tôi tên là Mỹ Duyên😉 </p>
 	<p>Sinh ngày: 25.06.2003</p>
@@ -16,6 +16,9 @@
 	<h4> Hình ảnh của bản thân</h4>
         <img src="271652843_652429902446767_453189311942881898_n.jpg" width="500" height="700" />
 	<h5> ⛽Liên hệ cho tui qua☎️
+		<p> Facebook: https://www.facebook.com/MYDUYEN250603/ </p>
+		<p> Zalo: 0357753734 </p>
+		<p> Instargram: _myduyen.2003_ </p>
 </body>
 </html>
   
