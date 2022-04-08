@@ -15,15 +15,15 @@
 	     <P>5. Tình trạng: Độc thân 😎</p>
 	     <p>6. Đang học tại trường Cao Đẳng Kỹ Thuật Công Nghệ Nha Trang</p>
 	     <p>7. Thời khóa biểu 🥱
-	<table border = "1">
+	<table style= "width 100%">
   <tr>
 	  <th><h3>Thứ ngày</h3></th>
 	  <td><h3>Thứ 2</h3></td>
-    <td><h3>Thứ 3</h3></td>
-    <th><h3>Thứ 4 </h3></th>
-    <th><h3> Thứ 5</h3></th>
-    <th><h3>Thứ 6 </h3></th>
-    <th><h3>Thứ 7 </h3></th>
+          <td><h3>Thứ 3</h3></td>
+          <th><h3>Thứ 4 </h3></th>
+          <th><h3> Thứ 5</h3></th>
+          <th><h3>Thứ 6 </h3></th>
+          <th><h3>Thứ 7 </h3></th>
   </tr>
   <tr>
 	  <th><h3>Sáng</h3></th>
@@ -52,7 +52,7 @@
 		<p>-  Instargram: _myduyen.2003_ </p>
 		<p>- Gmail: nguyentranmyduyen25@gmail.com📭 </p>
 	<form action="http://xuanthulab.net" method="get">
-		<label><h3>Hãy nhập ý kiến của bạn:</h3></label><br>
+	<label><h3>Hãy nhập ý kiến của bạn:</h3></label><br>
         <input name="name" type="text" value=""><br>
 </form>
 	<input type="submit" name="submit" value="Gửi" />
