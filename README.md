@@ -51,10 +51,11 @@
 		<p>- Zalo: 0357753734📱</p>
 		<p>-  Instargram: _myduyen.2003_ </p>
 		<p>- Gmail: nguyentranmyduyen25@gmail.com📭 </p>
-	<<form action="http://xuanthulab.net" method="get">
-    <label>Hãy nhập bình luận:</label><br>
-    <input name="name" type="text" value=""><br>
+	<form action="http://xuanthulab.net" method="get">
+        <label>Hãy nhập ý kiến của bạn:</label><br>
+        <input name="name" type="text" value=""><br>
 </form>
+	<input type="submit" name="submit" value="Gửi" />
 	<h1> Xin Cảm Ơn 🙇‍♀️🙇‍♀️</h1>
 	</body>
 	</html>
