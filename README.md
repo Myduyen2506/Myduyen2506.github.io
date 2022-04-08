@@ -3,13 +3,18 @@
   <head>
 	  <h1> (●'◡'●) Trang web của Nguyễn Trần Mỹ Duyên (●'◡'●)</h1>
 	  <meta charset="utf-8">
+	 <style> table,tr,td,th {  border: 1px solid black;
+  border-collapse: collapse;
+}
+		  </style>
 </head>
 <body>
 	<h2>✌️ Xin chào các bạn✌️✌️ </h2>
         <h2>Giới thiệu bản thân 🙋‍♀️</h2>
              <p>1. Tôi tên là Mỹ Duyên😉 </p>
 	     <p>2. Sinh ngày: 25.06.2003</p>
-	     <p>3. Giới tính: Nữ</p>
+	     <p>3
+		     . Giới tính: Nữ</p>
 	     <p>4. Sống tại: Diên Toàn - Diên Khánh</p>
 	     <P>5. Tình trạng: Độc thân 😎</p>
 	     <p>6. Đang học tại trường Cao Đẳng Kỹ Thuật Công Nghệ Nha Trang</p>
@@ -24,22 +29,26 @@
 		<p>- Gmail: nguyentranmyduyen25@gmail.com📭 </p>
 		 <h1> Cảm ơn mọi người đã xem 😘😘</h1>
   
-  <table style =" border: 1px solid black; border-collapse: collapse;:>
+  <table>
   <tr>
-    <th>Company</th>
-    <td>Contact</td>
-    <td>Country</td>
+    <th>Gia đình</th>
+    <td>Tên </td>
+    <td>Tuổi </td>
   </tr>
   <tr>
-    <th>Alfreds Futterkiste</th>
-    <td>Maria Anders</td>
-    <td>Germany</td>
+    <th> Ba </th>
+    <td>Nguyễn Vũ Lam</td>
+    <td>46</td>
   </tr>
   <tr>
-    <th>Centro comercial Moctezuma</th>
-    <td>Francisco Chang</td>
-    <td>Mexico</td>
+    <th>Mẹ</th>
+    <td>Trần Thị Lệ Dung</td>
+    <td>45</td>
   </tr>
+<tr>
+	<th>Nghề Nghiệp</th>
+	<td> Lái xe </td>
+	<td> Nội trợ</td>
 </table>
   
  
