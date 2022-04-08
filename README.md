@@ -4,7 +4,7 @@
 	  <h1> (●'◡'●) Trang web của Nguyễn Trần Mỹ Duyên (●'◡'●)</h1>
 	  <meta charset="utf-8">
 	 <style> table,tr,td,th {  border: 1px solid black;
-  border-collapse: collapse;
+		 width: 100%;
 }
 		  </style>
 </head>
