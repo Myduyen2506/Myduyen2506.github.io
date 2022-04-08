@@ -20,7 +20,8 @@
 table, th, td, tr {
   border:1px solid black;
 }
-</style>	
+</style>
+<table>
   <tr>
 	  <th><h3>Thứ ngày</h3></th>
 	  <td><h3>Thứ 2</h3></td>
