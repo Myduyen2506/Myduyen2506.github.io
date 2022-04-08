@@ -16,6 +16,11 @@
 	     <p>6. Đang học tại trường Cao Đẳng Kỹ Thuật Công Nghệ Nha Trang</p>
 	     <p>7. Thời khóa biểu 🥱
 	<table border= 1>
+<style>
+table, th, td {
+  border:1px solid black;
+}
+</style>	
   <tr>
 	  <th><h3>Thứ ngày</h3></th>
 	  <td><h3>Thứ 2</h3></td>
