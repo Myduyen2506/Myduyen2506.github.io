@@ -51,7 +51,10 @@
 		<p>- Zalo: 0357753734📱</p>
 		<p>-  Instargram: _myduyen.2003_ </p>
 		<p>- Gmail: nguyentranmyduyen25@gmail.com📭 </p>
-	<h3> Mọi thắc mắc xin liên hệ qua Số điện thoại 👆 để được giải đáp👌👌 </h3>
+	<<form action="http://xuanthulab.net" method="get">
+    <label>Hãy nhập bình luận:</label><br>
+    <input name="name" type="text" value=""><br>
+</form>
 	<h1> Xin Cảm Ơn 🙇‍♀️🙇‍♀️</h1>
 	</body>
 	</html>
