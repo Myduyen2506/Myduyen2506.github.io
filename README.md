@@ -3,8 +3,7 @@
   <head>
 	  <h1> (●'◡'●) Trang web của Nguyễn Trần Mỹ Duyên (●'◡'●)</h1>
 	  <meta charset="utf-8">
-	table, tr, td, th {border: 1px solid black;
-		 width: 50;}
+	
 </head>
 <body>
 	<h2>✌️ Xin chào các bạn✌️✌️ </h2>
@@ -27,7 +26,7 @@
 		<p>- Gmail: nguyentranmyduyen25@gmail.com📭 </p>
 		 <h1> Cảm ơn mọi người đã xem 😘😘</h1>
   
-  <table>
+  <table border = "1">
   <tr>
     <th>Gia đình</th>
     <td>Tên </td>
