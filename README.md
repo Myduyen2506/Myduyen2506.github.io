@@ -17,16 +17,16 @@
 	     <p>7. Thời khóa biểu 🥱
 	<table border = "1">
   <tr>
-    <th>Thứ ngày</th>
-    <td>Thứ 2 </td>
-    <td>Thứ 3 </td>
-    <th>Thứ 4 </th>
-    <th> Thứ 5</th>
-    <th> Thứ 6 </th>
-    <th> Thứ 7 </th>
+	  <th><h3>Thứ ngày</h3></th>
+	  <td><h3>Thứ 2</h3></td>
+    <td><h3>Thứ 3</h3></td>
+    <th><h3>Thứ 4 </h3></th>
+    <th><h3> Thứ 5</h3></th>
+    <th><h3>Thứ 6 </h3></th>
+    <th><h3>Thứ 7 </h3></th>
   </tr>
   <tr>
-    <th>Sáng</th>
+	  <th><h3>Sáng</h3></th>
     <td>Lập trình Python</td>
     <td>Lập trình Python</td>
     <td> Lắp ráp và sửa chữa máy tính</td>
@@ -35,7 +35,7 @@
     <td> Nghĩ</td>
   </tr>
   <tr>
-    <th>Chiều</th>
+	  <th><h3>Chiều</h3></th>
     <td>Nghĩ</td>
     <td>Thể dục thể chất</td>
     <td> Tiếng Anh </td>
