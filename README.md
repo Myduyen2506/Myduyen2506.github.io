@@ -17,7 +17,7 @@
 	     <p>7. Thời khóa biểu 🥱
 	<table border= 1>
 <table>
-  <tr>
+     <tr>
 	  <th><h3> Thứ ngày</h3></th>
 	  <td><h3>Thứ 2</h3></td>
           <td><h3>Thứ 3</h3></td>
@@ -25,8 +25,8 @@
           <th><h3> Thứ 5</h3></th>
           <th><h3>Thứ 6 </h3></th>
           <th><h3>Thứ 7 </h3></th>
-  </tr>
-  <tr>
+     </tr>
+     <tr>
 	  <th><h3> Sáng </h3></th>
           <td> Lập trình Python </td>
           <td> Lập trình Python </td>
@@ -34,8 +34,8 @@
           <td> Nghĩ </td>
           <td> Thiết kế và quản trị Website </td>
           <td> Nghĩ</td>
-  </tr>
-  <tr>
+    </tr>
+    <tr>
 	  <th><h3> Chiều </h3></th>
           <td> Nghĩ </td>
           <td> Thể dục thể chất </td>
@@ -43,8 +43,8 @@
           <td> Cơ sở dữ liệu </td>
           <td> Thiết kế và quản trị website </td>
           <td> Cấu trúc dữ liệu và giải thuật</td>
-  </tr>
-  </table>
+    </tr>
+   </table>
 	<h2> Hình ảnh của bản thân 😉😉</h2>
                  <img src="271652843_652429902446767_453189311942881898_n.jpg" width="400" height="500" />
         <h2> ☎️ Liên hệ 📞</h2>
