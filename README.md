@@ -45,13 +45,14 @@
   </tr>
   </table>
 	<h2> Hình ảnh của bản thân 😉😉</h2>
-             <img src="271652843_652429902446767_453189311942881898_n.jpg" width="400" height="600" />
+             <img src="271652843_652429902446767_453189311942881898_n.jpg" width="400" height="500" />
         <h2> ☎️ Liên hệ 📞</h2>
 		<p>- Facebook: https://www.facebook.com/MYDUYEN250603 📲 </p>
 		<p>- Zalo: 0357753734📱</p>
 		<p>-  Instargram: _myduyen.2003_ </p>
 		<p>- Gmail: nguyentranmyduyen25@gmail.com📭 </p>
-		 <h1> Cảm ơn mọi người đã xem 😘😘</h1>
+	<h3> Mọi thắc mắc xin liên hệ qua Số điện thoại 👆 để được giải đáp👌👌 </h3>
+	<h1> Xin Cảm Ơn 🙇‍♀️🙇‍♀️</h1>
 	</body>
 	</html>
  
