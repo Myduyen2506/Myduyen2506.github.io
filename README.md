@@ -24,7 +24,23 @@
 		<p>- Gmail: nguyentranmyduyen25@gmail.com📭 </p>
 		 <h1> Cảm ơn mọi người đã xem 😘😘</h1>
   
-  
+  <table style =" border: 1px solid black; border-collapse: collapse;:>
+  <tr>
+    <th>Company</th>
+    <td>Contact</td>
+    <td>Country</td>
+  </tr>
+  <tr>
+    <th>Alfreds Futterkiste</th>
+    <td>Maria Anders</td>
+    <td>Germany</td>
+  </tr>
+  <tr>
+    <th>Centro comercial Moctezuma</th>
+    <td>Francisco Chang</td>
+    <td>Mexico</td>
+  </tr>
+</table>
   
  
    
