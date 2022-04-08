@@ -49,6 +49,7 @@
 	<th>Nghề Nghiệp</th>
 	<td> Lái xe </td>
 	<td> Nội trợ</td>
+	  </tr>
 </table>
   
  
