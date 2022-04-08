@@ -18,7 +18,7 @@
 	<table border= 1>
 <table>
   <tr>
-	  <th><h3>Thứ ngày</h3></th>
+	  <th><h3font color="aqua"> Thứ ngày</h3></th>
 	  <td><h3>Thứ 2</h3></td>
           <td><h3>Thứ 3</h3></td>
           <th><h3>Thứ 4 </h3></th>
@@ -27,21 +27,21 @@
           <th><h3>Thứ 7 </h3></th>
   </tr>
   <tr>
-	  <th><h3>Sáng</h3></th>
-          <td>Lập trình Python</td>
-          <td>Lập trình Python</td>
-          <td> Lắp ráp và sửa chữa máy tính</td>
-          <td> Nghĩ</td>
-          <td> Thiết kế và quản trị Website</td>
+	  <th><h3font color="red"> Sáng </h3></th>
+          <td> Lập trình Python </td>
+          <td> Lập trình Python </td>
+          <td> Lắp ráp và sửa chữa máy tính </td>
+          <td> Nghĩ </td>
+          <td> Thiết kế và quản trị Website </td>
           <td> Nghĩ</td>
   </tr>
   <tr>
-	  <th><h3>Chiều</h3></th>
-          <td>Nghĩ</td>
-          <td>Thể dục thể chất</td>
+	  <th><h3font color="red"> Chiều </h3></th>
+          <td> Nghĩ </td>
+          <td> Thể dục thể chất </td>
           <td> Tiếng Anh </td>
-          <td> Cơ sở dữ liệu</td>
-          <td> Thiết kế và quản trị website</td>
+          <td> Cơ sở dữ liệu </td>
+          <td> Thiết kế và quản trị website </td>
     <td> Cấu trúc dữ liệu và giải thuật</td>
   </tr>
   </table>
@@ -50,13 +50,13 @@
         <h2> ☎️ Liên hệ 📞</h2>
 		<p>- Facebook: https://www.facebook.com/MYDUYEN250603 📲 </p>
 		<p>- Zalo: 0357753734📱</p>
-		<p>-  Instargram: _myduyen.2003_ </p>
+		<p>-  Instargram: https://www.instagram.com/_myduyen.2003_/ </p>
 		<p>- Gmail: nguyentranmyduyen25@gmail.com📭 </p>
 	<form action="http://xuanthulab.net" method="get">
 	<label><h3>Hãy nhập ý kiến của bạn:</h3></label><br>
         <input name="name" type="text" value=""><br>
-</form>
 	<input type="submit" name="submit" value="Gửi" />
+</form>		
 	<h1> Xin Cảm Ơn 🙇‍♀️🙇‍♀️</h1>
 </body>
 </html>
