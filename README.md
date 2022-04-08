@@ -36,7 +36,7 @@
           <td> Nghĩ</td>
   </tr>
   <tr>
-	  <th><h3font color="red"> Chiều </h3></th>
+	  <th><h3> Chiều </h3></th>
           <td> Nghĩ </td>
           <td> Thể dục thể chất </td>
           <td> Tiếng Anh CN </td>
@@ -46,7 +46,7 @@
   </tr>
   </table>
 	<h2> Hình ảnh của bản thân 😉😉</h2>
-             <img src="271652843_652429902446767_453189311942881898_n.jpg" width="400" height="500" />
+                 <img src="271652843_652429902446767_453189311942881898_n.jpg" width="400" height="500" />
         <h2> ☎️ Liên hệ 📞</h2>
 		<p>- Facebook: https://www.facebook.com/MYDUYEN250603 📲 </p>
 		<p>- Zalo: 0357753734📱</p>
