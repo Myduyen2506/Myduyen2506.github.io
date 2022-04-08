@@ -52,7 +52,7 @@
 		<p>-  Instargram: _myduyen.2003_ </p>
 		<p>- Gmail: nguyentranmyduyen25@gmail.com📭 </p>
 	<form action="http://xuanthulab.net" method="get">
-        <label>Hãy nhập ý kiến của bạn:</label><br>
+		<label><h3>Hãy nhập ý kiến của bạn:</h3></label><br>
         <input name="name" type="text" value=""><br>
 </form>
 	<input type="submit" name="submit" value="Gửi" />
