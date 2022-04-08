@@ -18,7 +18,7 @@
 	<table border= 1>
 <table>
   <tr>
-	  <th><h3font color="aqua"> Thứ ngày</h3></th>
+	  <th><h3> Thứ ngày</h3></th>
 	  <td><h3>Thứ 2</h3></td>
           <td><h3>Thứ 3</h3></td>
           <th><h3>Thứ 4 </h3></th>
@@ -27,7 +27,7 @@
           <th><h3>Thứ 7 </h3></th>
   </tr>
   <tr>
-	  <th><h3font color="red"> Sáng </h3></th>
+	  <th><h3> Sáng </h3></th>
           <td> Lập trình Python </td>
           <td> Lập trình Python </td>
           <td> Lắp ráp và sửa chữa máy tính </td>
@@ -58,7 +58,6 @@
 	<input type="submit" name="submit" value="Gửi" />
 </form>		
 	<h1> Xin Cảm Ơn 🙇‍♀️🙇‍♀️</h1>
-</body>
-</html>
+
  
    
