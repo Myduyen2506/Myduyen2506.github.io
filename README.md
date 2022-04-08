@@ -15,7 +15,7 @@
 	     <P>5. Tình trạng: Độc thân 😎</p>
 	     <p>6. Đang học tại trường Cao Đẳng Kỹ Thuật Công Nghệ Nha Trang</p>
 	     <p>7. Thời khóa biểu 🥱
-	<table style= "width 100%">
+	<table border= 1>
   <tr>
 	  <th><h3>Thứ ngày</h3></th>
 	  <td><h3>Thứ 2</h3></td>
