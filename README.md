@@ -1,7 +1,7 @@
 
   <html>
   <head>
-	  <h1> (●'◡'●) Trang web của Nguyễn Trần Mỹ Duyên (●'◡'●)</h1>
+	       <h1> (●'◡'●) Trang web của Nguyễn Trần Mỹ Duyên (●'◡'●)</h1>
 	  <meta charset="utf-8">
 	
 </head>
@@ -23,28 +23,26 @@
 		<p>- Gmail: nguyentranmyduyen25@gmail.com📭 </p>
 		 <h1> Cảm ơn mọi người đã xem 😘😘</h1>
   
-  <table border = "3">
+  <table border = "1">
   <tr>
     <th>Gia đình</th>
     <td>Tên </td>
     <td>Tuổi </td>
+    <th>Nghề Nghiệp</th>
   </tr>
   <tr>
     <th> Ba </th>
     <td>Nguyễn Vũ Lam</td>
     <td>46</td>
+    <td> Tài xế </td>
   </tr>
   <tr>
     <th>Mẹ</th>
     <td>Trần Thị Lệ Dung</td>
     <td>45</td>
+    <td> Nội trợ</td>
   </tr>
-<tr>
-	<th>Nghề Nghiệp</th>
-	<td> Tài xế </td>
-	<td> Nội trợ</td>
-	  </tr>
-</table>
+  </table>
 	</body>
 	</html>
  
