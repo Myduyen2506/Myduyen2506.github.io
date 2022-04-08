@@ -26,7 +26,7 @@
 		<p>- Gmail: nguyentranmyduyen25@gmail.com📭 </p>
 		 <h1> Cảm ơn mọi người đã xem 😘😘</h1>
   
-  <table border = "1">
+  <table border = "3">
   <tr>
     <th>Gia đình</th>
     <td>Tên </td>
