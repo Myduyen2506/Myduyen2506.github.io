@@ -17,7 +17,7 @@
 	     <p>7. Thời khóa biểu 🥱
 	<table border= 1>
 <style>
-table, th, td {
+table, th, td, tr {
   border:1px solid black;
 }
 </style>	
