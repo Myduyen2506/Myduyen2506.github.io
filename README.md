@@ -1,6 +1,7 @@
 
   <html>
   <head>
+  <style>
 	       <h1> (●'◡'●) Trang web của Nguyễn Trần Mỹ Duyên (●'◡'●)</h1>
 	  <meta charset="100">
 	
