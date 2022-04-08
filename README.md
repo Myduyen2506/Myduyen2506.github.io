@@ -39,10 +39,10 @@
 	  <th><h3font color="red"> Chiều </h3></th>
           <td> Nghĩ </td>
           <td> Thể dục thể chất </td>
-          <td> Tiếng Anh </td>
+          <td> Tiếng Anh CN </td>
           <td> Cơ sở dữ liệu </td>
           <td> Thiết kế và quản trị website </td>
-    <td> Cấu trúc dữ liệu và giải thuật</td>
+          <td> Cấu trúc dữ liệu và giải thuật</td>
   </tr>
   </table>
 	<h2> Hình ảnh của bản thân 😉😉</h2>
@@ -55,9 +55,9 @@
 	<form action="http://xuanthulab.net" method="get">
 	<label><h3>Hãy nhập ý kiến của bạn:</h3></label><br>
         <input name="name" type="text" value=""><br>
+</from>
 	<input type="submit" name="submit" value="Gửi" />
-</form>		
-	<h1> Xin Cảm Ơn 🙇‍♀️🙇‍♀️</h1>
+<h1> Xin Cảm Ơn 🙇‍♀️🙇‍♀️</h1>
 
  
    
