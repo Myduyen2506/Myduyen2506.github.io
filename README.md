@@ -55,8 +55,9 @@
 	<form action="http://xuanthulab.net" method="get">
 	<label><h3>Hãy nhập ý kiến của bạn:</h3></label><br>
         <input name="name" type="text" value=""><br>
-</from>
+</form>
 	<input type="submit" name="submit" value="Gửi" />
+</form>		
 <h1> Xin Cảm Ơn 🙇‍♀️🙇‍♀️</h1>
 
  
