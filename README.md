@@ -1,7 +1,7 @@
 
   <html>
   <head>
-	       <h1> (●'◡'●) Trang web của Nguyễn Trần Mỹ Duyên (●'◡'●)</h1>
+	       <h1> (●'◡'●) Trang website của Nguyễn Trần Mỹ Duyên (●'◡'●)</h1>
 	  <meta charset="100">
 	
 </head>
@@ -53,7 +53,7 @@
 		<p>-  Instargram: https://www.instagram.com/_myduyen.2003_/ </p>
 		<p>- Gmail: nguyentranmyduyen25@gmail.com📭 </p>
 	<form action="http://xuanthulab.net" method="get">
-	<label><h3>Hãy nhập ý kiến của bạn:</h3></label><br>
+	<label><h3>Hãy nhập ý kiến nếu bạn có thắc mắc về trang Web của mình :</h3></label><br>
         <input name="name" type="text" value=""><br>
 </form>
 	<input type="submit" name="submit" value="Gửi" />
