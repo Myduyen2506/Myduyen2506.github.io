@@ -46,7 +46,7 @@
           <td> Cấu trúc dữ liệu và giải thuật</td>
     </tr>
    </table>
-	<h2> Picture😉😉</h2>
+		<h2><li> Picture😉😉</li></h2>
                  <img src="271652843_652429902446767_453189311942881898_n.jpg" width="400" height="500" />
         <h2> ☎️ Liên hệ 📞</h2>
 		<p><li>Facebook: https://www.facebook.com/MYDUYEN250603 📲</li></p>
