@@ -7,7 +7,9 @@
 </head>
 <body style="background-color:green Blue;">
 	<h2 style="color:red">✌️ Xin chào các bạn✌️✌️ </h2>
-        <h2> Giới thiệu bản thân 🙋‍♀️</h2>
+	<body>
+	<h2><center> Giới thiệu bản thân 🙋‍</center></h2>
+	</body>
 	<p><li> Tôi tên là Mỹ Duyên😉 </li> </p>
 	<p><li> Sinh ngày: 2️⃣5️⃣.0️⃣6️⃣.2️⃣0️⃣0️⃣3️⃣</li></p>
 	<p><li> Giới tính: Nữ👩 </li></p>
