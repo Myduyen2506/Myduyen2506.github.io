@@ -1,7 +1,7 @@
 
   <html>
   <head>
-	  <body style="background-color:red">
+	  <body style="background-color:">
 	       <h1 style="font-family:verdana">(●'◡'●) Trang website của Nguyễn Trần Mỹ Duyên (●'◡'●)</h1>
 	  <meta charset="100">
 	
