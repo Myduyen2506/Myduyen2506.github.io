@@ -8,13 +8,12 @@
 <body>
 	<h2>✌️ Xin chào các bạn✌️✌️ </h2>
         <h2>Giới thiệu bản thân 🙋‍♀️</h2>
-             <p>1. Tôi tên là Mỹ Duyên😉 </p>
-	     <p>2. Sinh ngày: 25.06.2003</p>
-	     <p>3. Giới tính: Nữ</p>
-	     <p>4. Sống tại: Diên Toàn - Diên Khánh</p>
-	     <P>5. Tình trạng: Độc thân 😎</p>
-	     <p>6. Đang học tại trường Cao Đẳng Kỹ Thuật Công Nghệ Nha Trang</p>
-	     <p>7. Thời khóa biểu 🥱
+	<p><li> Tôi tên là Mỹ Duyên😉 </li> </p>
+	<p><li> Sinh ngày: 25.06.2003</li></p>
+	<p><li> Giới tính: Nữ</li></p>
+	<p><li> Sống tại: Diên Toàn - Diên Khánh</li></p>
+	<p><li> Đang học tại trường Cao Đẳng Kỹ Thuật Công Nghệ Nha Trang</li></p>
+	     <p><li>  Thời khóa biểu 🥱
 	<table border= 1>
 <table>
      <tr>
@@ -48,10 +47,10 @@
 	<h2> Hình ảnh của bản thân 😉😉</h2>
                  <img src="271652843_652429902446767_453189311942881898_n.jpg" width="400" height="500" />
         <h2> ☎️ Liên hệ 📞</h2>
-		<p>- Facebook: https://www.facebook.com/MYDUYEN250603 📲 </p>
-		<p>- Zalo: 0357753734📱</p>
-		<p>-  Instargram: https://www.instagram.com/_myduyen.2003_/ </p>
-		<p>- Gmail: nguyentranmyduyen25@gmail.com📭 </p>
+		<p><li>Facebook: https://www.facebook.com/MYDUYEN250603 📲 </li></p>
+		<p><li> Zalo: 0357753734📱 </li></p>
+		<p><li> Instargram: https://www.instagram.com/_myduyen.2003_/ </li></p>
+		<p><li> Gmail: nguyentranmyduyen25@gmail.com📭 </li></p>
 	<form action="http://xuanthulab.net" method="get">
 	<label><h3>Hãy nhập ý kiến nếu bạn có thắc mắc về trang Web của mình :</h3></label><br>
         <input name="name" type="text" value=""><br>
