@@ -46,7 +46,7 @@
           <td> Cấu trúc dữ liệu và giải thuật</td>
     </tr>
    </table>
-		<h2><li> Picture😉😉</li></h2>
+		<h2 style="color:red"><li> Picture😉😉</li></h2>
                  <img src="271652843_652429902446767_453189311942881898_n.jpg" width="400" height="500" />
 		 <img scr="277795365_700927817596975_7557262120904006861_n.jpg" width="400" height="500" />
         <h2> ☎️ Liên hệ 📞</h2>
