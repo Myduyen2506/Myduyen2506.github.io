@@ -5,7 +5,7 @@
 	  <meta charset="100">
 	
 </head>
-<body style="background-color:red;">
+<body style="background-color:green Blue;">
 	<h2 style="color:red">✌️ Xin chào các bạn✌️✌️ </h2>
         <h2> Giới thiệu bản thân 🙋‍♀️</h2>
 	<p><li> Tôi tên là Mỹ Duyên😉 </li> </p>
