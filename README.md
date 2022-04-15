@@ -44,7 +44,7 @@
           <td> Cấu trúc dữ liệu và giải thuật</td>
     </tr>
    </table>
-	<h2> Hình ảnh của bản thân 😉😉</h2>
+	<h2> Picture😉😉</h2>
                  <img src="271652843_652429902446767_453189311942881898_n.jpg" width="400" height="500" />
         <h2> ☎️ Liên hệ 📞</h2>
 		<p><li>Facebook: https://www.facebook.com/MYDUYEN250603 📲</li></p>
@@ -52,7 +52,8 @@
 		<p><li> Instargram: https://www.instagram.com/_myduyen.2003_/ </li></p>
 		<p><li> Gmail: nguyentranmyduyen25@gmail.com📭 </li></p>
 	<form action="http://xuanthulab.net" method="get">
-	<label><h3>Hãy nhập ý kiến nếu bạn có thắc mắc về trang Web của mình :</h3></label><br>
+	<label><h3><p style = "font-family:Brush Script MT;">
+</p>Hãy nhập ý kiến nếu bạn có thắc mắc về trang Web của mình :</h3></label><br>
         <input name="name" type="text" value=""><br>
 </form>
 		<input type="submit" name="submit" value="Gửi" /></from>
