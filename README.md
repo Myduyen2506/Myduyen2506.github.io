@@ -55,8 +55,8 @@
 	<label><h3><p style = "font-family:Brush Script MT;">
 </p>Hãy nhập ý kiến nếu bạn có thắc mắc về trang Web của mình :</h3></label><br>
         <input name="name" type="text" value=""><br>
-</form>
-		<input type="submit" name="submit" value="Gửi" /></from>
+        </form>
+		<input type="submit" name="submit" value="Gửi" />
 <h1> Xin Cảm Ơn 🙇‍♀️🙇‍♀️</h1>
         <p><audio controls>
 		<source src="https://www.youtube.com/watch?v=5r9wB0i7tDU.mp3"></p>
