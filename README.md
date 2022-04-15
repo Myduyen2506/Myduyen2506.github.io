@@ -1,7 +1,8 @@
 
   <html>
   <head>
-	  <body style="background-color:">
+          <div style="background-image: url('277807941_699683124388111_1343720769950709126_n.jpg');">
+	  </div>
 	       <h1 style="font-family:verdana">(●'◡'●) Trang website của Nguyễn Trần Mỹ Duyên (●'◡'●)</h1>
 	  <meta charset="100">
 	
