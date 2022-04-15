@@ -7,7 +7,7 @@
 </head>
 <body>
 	<h2>✌️ Xin chào các bạn✌️✌️ </h2>
-        <h2>Giới thiệu bản thân 🙋‍♀️</h2>
+        <h2> Giới thiệu bản thân 🙋‍♀️</h2>
 	<p><li> Tôi tên là Mỹ Duyên😉 </li> </p>
 	<p><li> Sinh ngày: 2️⃣5️⃣.0️⃣6️⃣.2️⃣0️⃣0️⃣3️⃣</li></p>
 	<p><li> Giới tính: Nữ👩 </li></p>
@@ -47,7 +47,7 @@
 	<h2> Hình ảnh của bản thân 😉😉</h2>
                  <img src="271652843_652429902446767_453189311942881898_n.jpg" width="400" height="500" />
         <h2> ☎️ Liên hệ 📞</h2>
-		<p><li>Facebook: <ahref> https://www.facebook.com/MYDUYEN250603 📲</li></p>
+		<p><li>Facebook: https://www.facebook.com/MYDUYEN250603 📲</li></p>
 		<p><li> Zalo: 0357753734📱 </li></p>
 		<p><li> Instargram: https://www.instagram.com/_myduyen.2003_/ </li></p>
 		<p><li> Gmail: nguyentranmyduyen25@gmail.com📭 </li></p>
