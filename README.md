@@ -6,9 +6,9 @@
 	
 </head>
 <body style="background-color:green Blue;">
-	<h2 style="color:red">✌️ Xin chào các bạn✌️✌️ </h2>
+	<h2 style="color:red"><center>✌️ Xin chào các bạn✌️✌️ </center></h2>
 	<body>
-	<h2><center> Giới thiệu bản thân 🙋‍</center></h2>
+	<h2 style="color:red"> Giới thiệu bản thân 🙋‍</h2>
 	</body>
 	<p><li> Tôi tên là Mỹ Duyên😉 </li> </p>
 	<p><li> Sinh ngày: 2️⃣5️⃣.0️⃣6️⃣.2️⃣0️⃣0️⃣3️⃣</li></p>
@@ -47,8 +47,8 @@
     </tr>
    </table>
 		<h2><li> Picture😉😉</li></h2>
-                 <img src="271652843_652429902446767_453189311942881898_n.jpg" width="400" height="500" />
-		 <img scr="277807941_699683124388111_1343720769950709126_n.jpg" width="400" height="500" />
+                 <img src="271652843_652429902446767_453189311942881898_n.jpg" width="300" height="400" />
+		 <img scr="277807941_699683124388111_1343720769950709126_n.jpg" width="300" height="400" />
         <h2> ☎️ Liên hệ 📞</h2>
 		<p><li>Facebook: https://www.facebook.com/MYDUYEN250603 📲</li></p>
 		<p><li> Zalo: 0357753734📱 </li></p>
