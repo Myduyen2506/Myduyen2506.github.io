@@ -55,8 +55,7 @@
 	<label><h3>Hãy nhập ý kiến nếu bạn có thắc mắc về trang Web của mình :</h3></label><br>
         <input name="name" type="text" value=""><br>
 </form>
-	<input type="submit" name="submit" value="Gửi" />
-</form>		
+		<input type="submit" name="submit" value="Gửi" /></from>	
 <h1> Xin Cảm Ơn 🙇‍♀️🙇‍♀️</h1>
 
  
