@@ -6,9 +6,6 @@
 	
 </head>
 <body>
-     <audio controls muted>
-        <source src="../file/bell.mp3">
-    </audio>
 	<h2>✌️ Xin chào các bạn✌️✌️ </h2>
         <h2> Giới thiệu bản thân 🙋‍♀️</h2>
 	<p><li> Tôi tên là Mỹ Duyên😉 </li> </p>
@@ -59,6 +56,9 @@
         <input name="name" type="text" value=""><br>
 </form>
 		<input type="submit" name="submit" value="Gửi" /></from>
+	 <audio controls>
+                <source src="https://www.youtube.com/watch?v=5r9wB0i7tDU.mp3">
+        </audio>
 <h1> Xin Cảm Ơn 🙇‍♀️🙇‍♀️</h1>
 		     
  
