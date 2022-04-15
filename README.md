@@ -2,12 +2,12 @@
   <html>
   <head>
 	  <body style="background-color:red">
-	       <h1> (●'◡'●) Trang website của Nguyễn Trần Mỹ Duyên (●'◡'●)</h1>
+	       <h1 style="font-family:verdana">(●'◡'●) Trang website của Nguyễn Trần Mỹ Duyên (●'◡'●)</h1>
 	  <meta charset="100">
 	
 </head>
 <body>
-	<h2>✌️ Xin chào các bạn✌️✌️ </h2>
+	<h2 style="color:red">✌️ Xin chào các bạn✌️✌️ </h2>
         <h2> Giới thiệu bản thân 🙋‍♀️</h2>
 	<p><li> Tôi tên là Mỹ Duyên😉 </li> </p>
 	<p><li> Sinh ngày: 2️⃣5️⃣.0️⃣6️⃣.2️⃣0️⃣0️⃣3️⃣</li></p>
