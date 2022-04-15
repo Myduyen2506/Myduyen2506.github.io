@@ -59,9 +59,7 @@
         <input name="name" type="text" value=""><br>
         </form>
 		<input type="submit" name="submit" value="Gửi" />
-		<h1><marquee>Xin cảm ơn mọi người </marquee></h1>
-        <p><audio controls>
-		<source src="https://www.youtube.com/watch?v=5r9wB0i7tDU.mp3"></p>
-		
+		<h1 style="color:red"><marquee>(❁´◡`❁) Xin cảm ơn mọi người (❁´◡`❁)</marquee></h1>
+       
  
    
