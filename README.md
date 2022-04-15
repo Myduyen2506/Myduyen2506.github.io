@@ -9,8 +9,8 @@
 	<h2>✌️ Xin chào các bạn✌️✌️ </h2>
         <h2>Giới thiệu bản thân 🙋‍♀️</h2>
 	<p><li> Tôi tên là Mỹ Duyên😉 </li> </p>
-	<p><li> Sinh ngày: 25.06.2003</li></p>
-	<p><li> Giới tính: Nữ</li></p>
+	<p><li> Sinh ngày: 2️⃣5️⃣.0️⃣6️⃣.2️⃣0️⃣0️⃣3️⃣</li></p>
+	<p><li> Giới tính: Nữ👩 </li></p>
 	<p><li> Sống tại: Diên Toàn - Diên Khánh</li></p>
 	<p><li> Đang học tại trường Cao Đẳng Kỹ Thuật Công Nghệ Nha Trang</li></p>
 	     <p><li>  Thời khóa biểu 🥱
