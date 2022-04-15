@@ -1,13 +1,11 @@
 
   <html>
   <head>
-          <div style="background-image: url('277807941_699683124388111_1343720769950709126_n.jpg');">
-	  </div>
-	       <h1 style="font-family:verdana">(●'◡'●) Trang website của Nguyễn Trần Mỹ Duyên (●'◡'●)</h1>
+	      <h1 style="font-family:verdana">(●'◡'●) Trang website của Nguyễn Trần Mỹ Duyên (●'◡'●)</h1>
 	  <meta charset="100">
 	
 </head>
-<body>
+<body style="background-color:red;">
 	<h2 style="color:red">✌️ Xin chào các bạn✌️✌️ </h2>
         <h2> Giới thiệu bản thân 🙋‍♀️</h2>
 	<p><li> Tôi tên là Mỹ Duyên😉 </li> </p>
