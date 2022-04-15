@@ -48,7 +48,7 @@
    </table>
 		<h2 style="color:red"><li> Picture😉😉</li></h2>
                  <img src="271652843_652429902446767_453189311942881898_n.jpg" width="400" height="500" />
-        <h2> ☎️ Liên hệ 📞</h2>
+        <h2 style="color:red"> ☎️ Liên hệ 📞</h2>
 		<p><li>Facebook: https://www.facebook.com/MYDUYEN250603 📲</li></p>
 		<p><li> Zalo: 0357753734📱 </li></p>
 		<p><li> Instargram: https://www.instagram.com/_myduyen.2003_/ </li></p>
@@ -59,7 +59,7 @@
         <input name="name" type="text" value=""><br>
         </form>
 		<input type="submit" name="submit" value="Gửi" />
-		<h1><marquee>Xin cảm ơn</marquee></h1>
+		<h1><marquee>Xin cảm ơn mọi người </marquee></h1>
         <p><audio controls>
 		<source src="https://www.youtube.com/watch?v=5r9wB0i7tDU.mp3"></p>
 		
