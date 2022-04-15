@@ -58,10 +58,7 @@
 		<input type="submit" name="submit" value="Gửi" /></from>
 <h1> Xin Cảm Ơn 🙇‍♀️🙇‍♀️</h1>
         <p><audio controls>
-                <source src="https://www.youtube.com/watch?v=5r9wB0i7tDU.mp3">
-		</audio></p>
-        <p><iframe width="420" height="315"
-                <src=""https://www.youtube.com/watch?v=YCkh3oEYlG4></iframe> "></p>
-		     
+		<source src="https://www.youtube.com/watch?v=5r9wB0i7tDU.mp3"></p>
+		
  
    
