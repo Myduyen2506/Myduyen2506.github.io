@@ -24,6 +24,7 @@
             </div>
     </nav>
                  <img src="271652843_652429902446767_453189311942881898_n.jpg" width="400" height="500" />
+	         <img src="277807941_699683124388111_1343720769950709126_n.jpg" width="400" height="500" />
 	<form action="http://xuanthulab.net" method="get">
 	<label><h3><p style = "font-family:Brush Script MT;">
 </p>Hãy nhập ý kiến nếu bạn có thắc mắc về trang Web của mình :</h3></label><br>
