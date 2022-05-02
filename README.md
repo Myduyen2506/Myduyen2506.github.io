@@ -7,7 +7,6 @@
 		<link
       rel="icon"
       href="chu-ky-ten-my-duyen-lady-jasmine-otf.jpeg"/>
-</head>
 <body>
   <nav>
             <div class="menu">
