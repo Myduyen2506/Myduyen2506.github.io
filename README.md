@@ -2,7 +2,6 @@
         <header>
             <img src="934a240a2f18ee46b709.jpg" width="400" height="200" alt="">
         </header>	
-<body style="background-color:green Blue;">
 	<body>
 		<link
       rel="icon"
