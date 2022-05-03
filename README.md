@@ -12,7 +12,7 @@
                 <ul>
                     <h2><li><a href="https://github.com/Myduyen2506/Myduyen2506.github.io">Trang Chủ</a></li>
                     <h2><li><a href="https://myduyen2506.github.io/thongtincanhan.html">Thông Tin Cá Nhân</a></li></h2>
-                    <h2><li><a href="https://nguyentanhungg.github.io/hoctap">Học Tập</a></li></h2>
+                    <h2><li><a href="https://myduyen2506.github.io/hoctap.html">Học Tập</a></li></h2>
                     <h2><li><a href="https://myduyen2506.github.io/lienhe.html">Liên Hệ</a></li></h2>
                  <img src="271652843_652429902446767_453189311942881898_n.jpg" width="400" height="500" />
 	<form action="http://xuanthulab.net" method="get">
