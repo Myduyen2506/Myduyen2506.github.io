@@ -3,6 +3,12 @@
             <img src="934a240a2f18ee46b709.jpg" width="400" height="200" alt="">
         </header>	
 	<body>
+		 <div class="search">
+                <form action="https://le-quang-bao.github.io">
+                    <input type="search" placeholder="Search...." required>
+                    <button> Tìm Kiếm </button>
+                </form>
+            </div>
 		<link
       rel="icon"
       href="chu-ky-ten-my-duyen-lady-jasmine-otf.jpeg"/>
