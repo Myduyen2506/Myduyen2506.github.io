@@ -4,7 +4,7 @@
         </header>	
 	<body>
 		 <div class="search">
-                <form action="https://le-quang-bao.github.io">
+                <form action="https://myduyen2506.github.io">
                     <input type="search" placeholder="Search...." required>
                     <button> Tìm Kiếm </button>
                 </form>
