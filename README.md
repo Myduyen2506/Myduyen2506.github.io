@@ -1,49 +1,107 @@
-<html lang="en">
+<html lang="vi">
 <head>
-    <meta charset="UTF-8">
-    <title>Trang Chủ</title>
-    <link rel="stylesheet" href="style.css">
-    <link rel="icon" href="chu-ky-ten-my-duyen-lady-jasmine-otf.jpeg"/>
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/.1.1/css/all.min.css">
+	<meta charset="utf-8">
+  <title>
+	   NGUYEN TRAN MY DUYEN
+	</title>
+	<link rel="shortcut icon" type="image/png" href="chu-ky-ten-my-duyen-lady-jasmine-otf.jpeg"/>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+ <style>
+   #ff :hover{   
+          color: #0099FF;
+      } 
+      #yy:hover{
+          color: red;
+      }
+      #ii:hover{
+          color:violet;
+      } #ff{   
+          color:black;
+      } 
+      #yy{
+          color:black;
+      }
+      #ii{
+          color:black;
+      }
+   header{
+     background-color:pink;
+   }
+   #t{
+     background-color:black;
+   }
+    #y{
+     background-color:#FF0000;
+   }
+   body {
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+ 
+.topnav {
+    overflow: hidden;
+    background-color: #333;
+}
+ 
+.topnav a {
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+}
+ 
+.topnav a:hover {
+    background-color: #ddd;
+    color: black;
+}
+ 
+.topnav a.active {
+    background-color: #4CAF50;
+    color: white;
+}</style>
+  
 </head>
-  <body>
-    <header>
-        <div class="banner">
-            <div class="navbar">
-                <img src="934a240a2f18ee46b709.jpg" class="logo">
-               <ul>
-                    <li><a href="https://nguyentanhungg.github.io/">Trang chủ</a></li>
-                    <li><a href="https://nguyentanhungg.github.io/thongtincanhan">Thông tin cá nhân</a></li>
-                    <li><a href="https://nguyentanhungg.github.io/hoctap">Học Tập</a></li>
-                </ul>
-              </div>
-            <div class="banner-text">
-                <h1>Xin chào <i class='far fa-hand-peace'></i></h1>
-                <p>Welcome to my website <i class="fa-solid fa-heart"></i></p>
-                
-            </div>
-            <div class="search-box">
-                <form class="example" action="https://nguyentanhungg.github.io/camon" >
-                    <input type="search" placeholder="Search...." required>
-                    <button type="submit"><i class="fa-solid fa-magnifying-glass"></i></button>
-                </form>
-              <footer>
-        <div id="footer">
-            <div class="footer-logo">
-    <link rel="icon" href="chu-ky-ten-my-duyen-lady-jasmine-otf.jpeg"/>
-                <img src="" alt="">
-                
-            </div>
-            <div class="links">
-                <a href=" https://www.facebook.com/MYDUYEN250603/ "target="_blank"><i class='fab fa-facebook'></i></a>
-                <a href="https://www.instagram.com/_myduyen.2003_/"target="_blank"><i class='fab fa-instagram'></i></a>
-                <a href="https://myduyen2506.github.io/ "target="_blank"><i class='fab fa-github'></i></a>
-            </div>
-            <div class="footer-giua">
-                @ 2022 <a href="https://myduyen2506.github.io/" target="_blank">NguyenTranMyDuyen</a>
-            </div>
-        </div>
-    </footer>
+<body link="#000" alink="#017bf5" vlink="#000">
+	<h3 align="center">
+	<br><font  face="Lato" size="6"><img src="chu-ky-ten-my-duyen-lady-jasmine-otf.jpeg"></font></br>
+		<div class="topnav"><font face="cinzel" size="6">
+			<a  href="https://myduyen2506.github.io/"style="text-decoration:none">TRANG CHỦ</a>&nbsp;&nbsp;&nbsp;&nbsp;
+			<a href="https://myduyen2506.github.io/thongtincanhan.html">THÔNG TIN</a>&nbsp;&nbsp;&nbsp;&nbsp;
+			<a href="https://myduyen2506.github.io/lienhe.html">LIÊN HỆ</a>&nbsp;&nbsp;&nbsp;&nbsp;	
+      <a href="https://myduyen2506.github.io/hoctap.html"style="text-decoration:none">HỌC TẬP</a>
+      </font></div>
+	</h3>
+  <header>
+	<br />
+	<h1 align="center">
+        <font face="Lato" color="#017bf5" size="7">
+            NGUYỄN TRẦN MỸ DUYÊN
+		</font>
+      </h1>
+  <h2 align="center">
+    <link rel="stylesheet" href="chu-ky-ten-my-duyen-lady-jasmine-otf.jpeg" />
+<div class="box">
+<form class="sbox" action="/search" method="get">
+<input class="stext" type="text" name="q" placeholder="Tìm kiếm bài viết...">
+<a class="sbutton" type="submit" href="javascript:void(0);">
+<i class="fa fa-search"></i>
+</a>
+</form>
+</div>
+</form>
+       </form>
+  </h2>
+	<h3 align="center"><br />
+		<font face="Lato" color="#000" size="5">
+		</font>
+	</h3>
+</header>
+<h1 align="center"> Liên Hệ
+    </h1>
+<p align="center"><a id="ff"href="https://www.facebook.com/MYDUYEN250603/"><i class="fa fa-facebook-square"style="font-size:30px;"></i></a>
+    &nbsp;
+    <a id="ii" href="https://www.instagram.com/_myduyen.2003_/"><i class="fa fa-instagram"style="font-size:30px;"></i></a> </header></p>
 </body>
 </html>
  
