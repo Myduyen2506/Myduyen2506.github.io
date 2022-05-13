@@ -3,6 +3,7 @@
             <img src="934a240a2f18ee46b709.jpg" width="400" height="200" alt="">
         </header>	
 	<body>
+		background="280298586_1679672355758798_5095252730808730356_n.jpg"
 		 <div class="search">
                 <form action="https://myduyen2506.github.io">
                     <input type="search" placeholder="Search...." required>
@@ -13,7 +14,6 @@
       rel="icon"
       href="chu-ky-ten-my-duyen-lady-jasmine-otf.jpeg"/>
 <body>
-	background="280298586_1679672355758798_5095252730808730356_n.jpg"
   <nav>
             <div class="menu">
                 <ul>
