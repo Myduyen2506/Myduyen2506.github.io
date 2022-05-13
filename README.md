@@ -13,6 +13,7 @@
       rel="icon"
       href="chu-ky-ten-my-duyen-lady-jasmine-otf.jpeg"/>
 <body>
+	background="280298586_1679672355758798_5095252730808730356_n.jpg"
   <nav>
             <div class="menu">
                 <ul>
