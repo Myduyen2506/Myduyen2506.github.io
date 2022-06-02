@@ -13,28 +13,28 @@
     <body>
         <div class="card">
             <div class="card__img">
-              <img src="hinh`.jpg" alt="" />
+              <img src="277807941_699683124388111_1343720769950709126_n.jpg" alt="" />
             </div>
             <h2>Hoàng Thịnh</h2>
             <p>Developer</p>
             <div class="card__social">
-              <a target="_black" href="https://www.facebook.com/thinhsuy110/">
+              <a target="_black" href="https://www.facebook.com/MYDUYEN250603/">
                 <i class="fa fa-facebook-f"></i>
               </a>
-              <a target="_black" href="https://www.instagram.com/nwuyen_03/">
+              <a target="_black" href="https://www.instagram.com/_myduyen.2003_/">
                 <i class="fa fa-instagram"></i>
               </a>
               
               <a
                 target="_black"
-                href="https://github.com/hthinh110">
+                href="https://myduyen2506.github.io/">
                 <i class="fa fa-github"></i>
               </a>
             </div>
             
             
           
-            <button>About Me</button>
+            <button>HELLO</button>
          
            
           </div>
