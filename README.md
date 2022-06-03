@@ -33,7 +33,7 @@ background="280298586_1679672355758798_5095252730808730356_n.jpg"
 	<section>
     <h1 align="center">
 		<font face="Lato" color="#05f52d" size="7">
-			XIN CHÀO, CHÀO MỪNG BẠN ĐẾN WEBSITE CỦA TÔI 
+			CHÀO MỪNG BẠN ĐẾN WEBSITE
 		</font>
                 <form>
 				<input type="text">
