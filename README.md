@@ -1,2 +1,56 @@
 
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8">
+	        <title>
+	MỸ DUYÊN 
+                <style>
+			header{background-color:#ffe6e6;height:50px;}
+			section{background-color:#32a852;height:500px;color:white;}
+			footer{background-color: #e0e0d1;height:50px;}
+		</style>
+	</title>
+</head>
+<body
+background="280298586_1679672355758798_5095252730808730356_n.jpg"
+ <br />
+	<h3
+	 align="center">
+		<font face="fantasy" size="4"></font>
+		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+		<font face="cinzel" size="4">
+			<a href="https://myduyen2506.github.io/css.html/css.html">Trang Chủ</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+			<a href="https://myduyen2506.github.io/hoctap.html">Học Tập</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+			<a href="https://myduyen2506.github.io/thongtincanhan.html">Thông Tin</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+			<a href="https://myduyen2506.github.io/lienhe.html">Liên Hệ</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+		</font>
+	</h3>
+	<br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
+	<section>
+    <h1 align="center">
+		<font face="Lato" color="#05f52d" size="7">
+			XIN CHÀO, CHÀO MỪNG BẠN ĐẾN WEBSITE CỦA TÔI 
+		</font>
+                <form>
+				<input type="text">
+				<button>Tìm Kiếm</button>
+		</form>
+  
+       </section>
+	</h1>
+	</h3>
+	<br />
+	<h3 align="center">
+	<a href="https://www.facebook.com/MYDUYEN250603/">
+		<font face="Lato" color="red"  size="5">LIÊN HỆ</font>
+	</a>
+	</h3>
+        <footer> 
+                <h3>Bản Quyền Nguyễn Trần Mỹ Duyên</h3>
+                <h3>Xuất Bản XXV - VI - XXIII</h3>
+</html
    
