@@ -1,56 +1,117 @@
 
 <!DOCTYPE html>
-<html lang="en">
+<!--[if lte IE 9]>     <html class="no-js ie"> <![endif]-->
+<!--[if gt IE 9]><!--> <html class="no-js"> <!--<![endif]-->
 <head>
-	<meta charset="utf-8">
-	        <title>
-	MỸ DUYÊN 
-                <style>
-			header{background-color:#ffe6e6;height:50px;}
-			section{background-color:#32a852;height:500px;color:white;}
-			footer{background-color: #e0e0d1;height:50px;}
-		</style>
-	</title>
-</head>
-<body
-background="280298586_1679672355758798_5095252730808730356_n.jpg"
- <br />
-	<h3
-	 align="center">
-		<font face="fantasy" size="4"></font>
-		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-		<font face="cinzel" size="4">
-			<a href="https://myduyen2506.github.io/css.html/css.html">Trang Chủ</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-			<a href="https://myduyen2506.github.io/hoctap.html">Học Tập</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-			<a href="https://myduyen2506.github.io/thongtincanhan.html">Thông Tin</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-			<a href="https://myduyen2506.github.io/lienhe.html">Liên Hệ</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-		</font>
-	</h3>
-	<br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
-	<section>
-    <h1 align="center">
-		<font face="Lato" color="#05f52d" size="7">
-			CHÀO MỪNG BẠN ĐẾN WEBSITE
-		</font>
-                <form>
-				<input type="text">
-				<button>Tìm Kiếm</button>
-		</form>
-  
-       </section>
-	</h1>
-	</h3>
-	<br />
-	<h3 align="center">
-	<a href="https://www.facebook.com/MYDUYEN250603/">
-		<font face="Lato" color="red"  size="5">LIÊN HỆ</font>
-	</a>
-	</h3>
-        <footer> 
-                <h3>Bản Quyền Nguyễn Trần Mỹ Duyên</h3>
-                <h3>Xuất Bản XXV - VI - XXIII</h3>
-</html
+    <meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=Edge">
+<meta http-equiv="Cache-Control" content="no-cache">
+
+    <title>Wix Website Editor</title>
+    
+        <link rel="icon" type="image/png" href="https://www.wix.com/favicon.ico">
+        
+    <script src="//static.parastorage.com/services/cookie-consent-policy-client/1.573.0/app.bundle.min.js"></script>
+<script src="//static.parastorage.com/services/tag-manager-client/1.427.0/hostTags.bundle.min.js"></script>
+<script>
+    if (window.consentPolicyManager) {
+        window.consentPolicyManager.init({
+            baseUrl: window.location.origin,
+            consentPolicy: {"functional":true,"analytics":true,"advertising":true,"dataToThirdParty":true,"essential":true}
+    });
+    }
+</script>
+<script>
+    if (window.wixTagManager) {
+        window.wixTagManager.init(window.wixTagManager.HOST_NAMES.EDITOR, 'vi');
+    }
+</script>
+    <script
+  src="https://browser.sentry-cdn.com/6.10.0/bundle.min.js"
+  integrity="sha384-nsIkfmMh0uiqg+AwegHcT1SMiPNWnhZmjFDwTshLTxur6ZPNaGT8vwT+vHwI5Jag"
+  crossorigin="anonymous"
+></script>
+    <script type="text/javascript">
+    (function () {
+        function sendBeacon(url) {
+            var sent = false
+            try {
+                sent = navigator.sendBeacon(url)
+            } catch (e) {
+            }
+            if (!sent) {
+                (new Image()).src = url
+            }
+        }
+
+        var urlParams = new URLSearchParams(window.location.search);
+        var origin = 'thunderbolt' ;
+        var fedOpsAppName = 'santa-editor';
+        var editTypeToReport = 'none';
+        var editorSessionIdForFedsOps = '8d85bd87-d145-4db4-861b-66e136773c31';
+        var fedopsParams = '&msid=3b6347c2-0003-402e-b242-5a5bba9de19c&uuid=a48e382e-8bd6-4319-a3ca-91ed4c6190b9&isDraft=false&siteCreationWizard=false';
+        var is_rollout = 0;
+
+        window.fedops = window.fedops || {};
+        window.fedops.apps = window.fedops.apps || {};
+        window.fedops.apps[fedOpsAppName] = { startLoadTime: window.performance && window.performance.now && window.performance.now() };
+
+        window.loggerModel = {
+            is_rollout: is_rollout,
+            origin: origin,
+            editorSessionId: editorSessionIdForFedsOps,
+            fedOpsAppName: fedOpsAppName
+        };
+        var url = '//frog.wix.com/editor-performance?src=72&evid=41&appName=' + fedOpsAppName +
+                  '&is_rollout=' + is_rollout + '&origin=' + origin +
+                  '&session_id=' + editorSessionIdForFedsOps + '&type=' + editTypeToReport +
+                  fedopsParams;
+        sendBeacon(url);
+    })();
+</script>
+    <link rel="stylesheet" href="https://static.parastorage.com/services/santa-editor/1.14090.0/cssCache/packages/rEditor/src/main/editor.css" type="text/css" />
+            <script src="https://static.parastorage.com/unpkg-semver/wix-recorder@^1/app.bundle.min.js"></script>    
+    <script type="text/javascript">
+        var editorModel =  {"siteHeader":{"id":"46218bb4-5b2e-41e6-972c-8796c5a6f973","userId":"a48e382e-8bd6-4319-a3ca-91ed4c6190b9","revision":8,"version":1657247184036,"applicationType":"HtmlWeb","documentType":"document","published":true,"pageIdList":{"masterPageJsonFileName":"a48e38_3f64aa66702b9dc35fe2a929c7f40dad_8.json","topology":["https:\/\/static.wix.com\/sites\/{filename}.z?v=3","https:\/\/fallback.wix.com\/wix-html-editor-pages-webapp\/pageForEditor\/{filename}?v=3"],"pages":[{"pageId":"e05d8","title":"CONTACT","pageJsonFileName":"a48e38_48b1f8e93755792f5409de66c756e00d_3.json"},{"pageId":"e4mcl","title":"RESUME","pageJsonFileName":"a48e38_5be8bf2e231b9447d0ac815aded85aaa_4.json"},{"pageId":"klk7a","title":"Trang Chủ","pageJsonFileName":"a48e38_da0337ecbaea9bedc8a4f69b1e136549_8.json"},{"pageId":"wx2p3","title":"PROJECTS","pageJsonFileName":"a48e38_74d945318205f74b82c8317cdd1c451e_2.json"}]},"originalTemplateId":"7e761c3c-729b-4d4e-9dc3-a8242c486f56"},"metaSiteId":"3b6347c2-0003-402e-b242-5a5bba9de19c","mode":"nodebug","selenium":false,"serviceMappings":{"2":{"idInMetaSite":2,"idInApp":"46218bb4-5b2e-41e6-972c-8796c5a6f973","applicationType":"HtmlWeb"}},"metaSiteData":{"siteName":"my-site","title":"","favicon":"","metaTags":[{"name":"description","value":"","property":false},{"name":"fb_admins_meta_tag","value":"","property":false},{"name":"keywords","value":"","property":false}],"thumbnail":"","premiumFeatures":[],"indexable":true,"suppressTrackingCookies":false,"adaptiveMobileOn":true,"externalUriMappings":[],"ogImage":""},"publicUrl":"https:\/\/nguyentranmyduyen2.wixsite.com\/my-site","relativeWixUri":"\/my-site","editorSessionId":"8d85bd87-d145-4db4-861b-66e136773c31","usedMetaSiteNames":[],"runningExperiments":{"se_repeater_direction":"new","specs.wixCode.codereuse-useAggregatedAvailablePackagesAPI":"true","se_linkPanelDragAbility":"new","specs.wixCode.highlightingComponents":"false","specs.wixCode.DraftPublish":"true","se_siteCreationAllowedTemplates":"true","se_advancedMenu":"true","se_smartWriterRedesign":"new","specs.media.MediaManager3":"true","se_mediaPanelShowCreateMediaSection":"true","specs.wos.SiteHistoryBM":"true","se_switchLayoutWithVideo":"true","specs.media-manager-g6.NewCheckout":"true","specs.marketplace.editorx-for-13e8d036-5516-6104-b456-c8466db39542":"true","se_allowOnlyBackendLoginSetting":"true","specs.wixCode.codeModelDeprecation":"true","se_rcmRegroupItems":"new","se_mediaPanelShowRecommendedMedia":"false","specs.wixCode.se_veloComponentsNewWorkspace":"true","se_wixBooking_bizMgrImprovement":"new","specs.chat.HideSettingsFirstTime":"true","se_allowConnectButtonForAppWidget":"true","spec.wix-labs-faq.EnableNewVersion":"true","se_changeSmartWriterGif":"true","se_setAsHomePageContextMenu":"new","se_addGFPPLinkPanel":"true","se_dummyFailingExperiment":"old","se_helpUkraine":"true","specs.wixCode.NpmPkgManagerUIImprovements":"true","specs.media-manager-g6.PriceWithTax":"true","se_breadcrumbsAddPanel":"new","se_selectMobileMenuElementOnEdit":"new","se_disableNewUserVideo":"new","se_migrateToMeshScreen":"1","se_newAddPanelFetchFromStatics":"true","se_unifyMaxFontValue":"true","se_wixBookings_disableDashboardOnInstall":"new","newBlogMagicMigration":"new","se_PriceWithTax":"true","specs.wixCode.enableUseBatchOnBIEvents_3":"true","se_stylablePanelElementHighlighting":"new","se_gradientsInSectionsEditor2":"true","se_improveSelectionInLayersPanel":"new","specs.chat.WidgetRedesignPhase1":"true","se_linkPanelsAddNewPage":"new","specs.wixCode.newDefaultPageCode":"true","se_asyncDetach":"true","se_tooManyPagesLimitation":"new","se_panelHeaderBackButton":"new","WixStoresLaunch":"new","se_contentManagerPanelNewUi":"new","apd_presetsRedesign":"new","specs.marketplace.newReviewComponent":"true","se_gradientsInBackgroundX":"true","se_hideLayersHeaderFooterInLandingOrPopupPage":"new","se_contentManagerPanelNewUiInEditorX":"new","se_newCustomTypesFlow":"new","specs.promote.useAutoRedirectsForStaticPages":"true","se_templatesSectionBoExposer":"true","se_editorxNewProGalleryAddPanelSectionDesign":"new","specs.marketplace.hideDevName":"true","se_privacyGDPRInSettings":"new","se_newBlogQuickMigration":"new","se_retrievePendingCountFromAppMarketAPI":"true","specs.media.MediaManager3Migrate":"true","specs.codeEmbed.CustomCodeOnly":"true","se_collapsibleText":"new","se_smartWriter":"new","specs.wixCode.SPIPaymentsIntegration":"false","specs.marketplace.use-new-marketplace":"true","se_siteSegmentsAsSections":"true","se_leftBarLayersPanelButton":"new","se_videoOpacity":"new","se_sectionsMigration":"new","specs.marketplace.complete-setup":"false","se_NewHorizontalMenuLimitedHoverFeatures":"new","se_newLinkPanelFlowForAnchors":"new","se_dynamicTextInOverlappingRcm":"true","specs.wixCode.keyboardShortcutsFromEditor":"true","specs.wixCode.SPIPostPublishModal":"false","se_dragAndScroll":"new","se_appBuilderNameWithAsyncValidation":"new","se_nativeProGalleryExperimentalFeatures":"false","se_UploadButtonVideoQuotaBanner":"old","se_wixBookings_HealthWaivers":"new","se_sectionsReorderLeftBarItems":"C","specs.wixCode.runCodeButton":"true","se_includeWixPortfolioInMyBusiness":"true","se_EditorSearchBMIntegration":"new","specs.wixCode.AutoCMSv2NewColorsBranding":"false","se_showDisplayNameInEditBox":"new","specs.wixCode.isShowIDEWithDsRead_WBL2067":"true","se_fedopsLogger":"new","se_InputElementsRemoveLabelToggles":"new","specs.wixCode.enableUseBatchOnBIEvents_2":"true","se_wixBookings_IntroFunnelPreInstallation":"old","specs.wixData.SignatureInput":"true","se_mediaPanelAddSection":"B","se_outOfGridIndication":"true","se_hidePageDesignButton":"new","se_multilingualRedesignLanguageModeBarAB":"true","rcToTestSiteOnEditorX":"true","specs.marketplace.UseInReview":"false","se_removeSeoSet":"new","se_UploadButtonMaxFileSize":"old","se_mediaPanelIcon":"C","se_serialPreInstallApps":"new","se_domLayout":"new","dm_failOnSlotValidationErrors":"false","specs.wixCode.tbfSupportArrowFunctions":"true","specs.funnel.NewIntroEnableAppSuggestions":"true","se_members_useDefaultPrivacyStatusServiceForJoinCommunityStatus":"true","se_Ascend_splitChatAndInbox":"true","se_boExposerTpaMultiSection":"true","se_workspaceRightPanelWidth":"true","se_mediaPanelColor":"orange","se_googleTranslate":"new","se_components_editorClassic_useMadefor":"false","specs.marketplace.ml-random-apps":"false","specs.wixCode.cacheNotificationFromServer":"true","specs.wixCode.autocompleteMultipleFiles":"true","se_AddPanelStripSectionAsTopSection":"new","se_permissionsOnGfpp":"new","se_fakeBrowserEditor2":"true","se_siteMembersLink":"new","specs.ident.UpdateMembersPermsOnEditor":"true","specs.ob.deprecateDsWixappsCall":"false","se_typescriptCodeEditor":"new","se_addPage404":"new","se_addSectionHoverUI":"new","se_stylablePanelFixTextThemeBehavior":"true","se_switchLayoutFixHeadingIssueInTemplates":"true","se_multilingualOCTRepeatersFix":"new","specs.wixCode.codereuse-useNewPkgRepositoryUrl":"true","dm_mobileAlgoValidationNoConduct":"false","se_colorPickerInResponsive":"true","specs.marketplace.fullPrices":"true","specs.wixCode.isShowPackageAutoUpdateIndicator":"true","specs.ascend.AccessPackagePicker":"true","se_htmlComponentSettingPanelTitleAttribute":"new","se_removeSectionFirstSelection":"true","se_newUpdateAndPushApi":"true","specs.wixCode.renameSiteMonitoringToLogging":"true","specs.wixCode.exposeCollectionsSchema":"false","specs.wixCode.enableHttpFunctionsInBlocks":"false","se_components_editorClassic_inputBorders":"false","se_interactionStylable":"true","se_switchLayoutWithImage":"true","se_wrapToSectionBeforePageNavigation":"false","se_wixBooking_EditorXContent":"new","developerModeToggle":"new","se_openHtmlCompSettingsOnAdd":"false","se_disableFooterPushing":"new","se_switchLayout":"new","specs.wixCode.packageReadmeTabScroll":"false","specs.thunderbolt.saveLetterSpacingToTextTheme":"true","se_useDragAndPushInZoomOut":"true","se_handleTooManySitesForFreeUserException":"new","specs.support.LessCapabilitiesForSupportUser":"old","se_newMaxStretchValue":"new","specs.wixCode.consoleImprovements":"true","se_sendAppIntentOnSiteCreationInstall":"true","specs.wixCode.ideFormatButton":"true","se_switchLayoutWithGallery":"true","se_wixStores_ecomPlatformInstallation":"true","specs.wixCode.CodeEditorDarkThemeV2":"true","newBlogNewPostListSections":"true","se_shmAddPanelCustomTheme":"new","specs.wixCode.addVersionNumberToNpmPackage":"true","se_playInteractionFromModeBar":"new","se_stylablePanelNewElementreeInfra":"new","se_editSection":"true","specs.wos.SiteHistoryClientBM":"false","se_newWorkspace":"new","se_multilingualOneClickTranslation":"new","se_newAddPanel":"new","sv_inputElementsA11y":"false","specs.abTranslate.santa-editor.abSpec-specs.wixCode.veloRebranding":"1","se_sectionsResizeAndPush":"true","se_stylablePanel":"new","se_bookingsAppEngagement":"true","se_removeTextButtons":"true","specs.ob.enableNewScoreForDefaultContent":"true","se_newMobileHelpArticles":"true","se_components_editorClassic_inputBorders_StylablePanel":"false","se_appWidgetSettingsGfpp":"true","specs.experts.FeedBackNg2":"true","specs.wixCode.moveMasterPageToMainPages":"true","specs.wixCode.codereuse-phase-2":"true","specs.wixCode.CatalogSPI":"false","specs.wixCode.veloRebranding":"true","se_mediaPanelNewTexts":"true","se_linkPanelRelExposure":"true","se_stylableButtonThemes":"new","se_optimisticDrag":"new","ricos_databinding":"new","displayWixAdsNewVersion":"new","se_EditorSearch":"new","specs.wixCode.noLib":"true","specs.wixCode.DateOnlyFieldType":"false","specs.wixCode.tbfSupportHttpFunctions":"true","se_preselectLinkPanelPageTab":"new","rcToTestSiteOnSantaEditor":"true","se_wixBookings_IntroFunnelV2":"new","se_hideOldBlogManagePostsGfppButtons":"new","specs.wixCode.EmptyStateInBM":"true","se_hideMobileWizardGlobally":"new","se_wixBookings_newAddPanel":"new","se_searchBox_displayTrendingItemsToggle":"true","se_fakeBrowser":"true","specs.wixCode.renameFolders":"true","se_a11yRefactor":"new","se_showUpgradeOnTheRight":"true","se_gradientsForAll":"true","newBlogPostListWidgetSections":"new","se_obMigrationFlow":"new","specs.marketplace.editorx-for-14517e1a-3ff0-af98-408e-2bd6953c36a2":"true","specs.wixCode.whatsNewAddLangQueryParamToUrl":"true","se_NewHorizontalMenuReplaceOldPresetsInAddPanel":"new","specs.wixCode.typescriptCodeEditorInAppBuilder":"true","se_dealerPlacementOnSave":"new","se_gradientsInStrip":"new","se_changeDashboardEntryPoints":"new","se_removeSettingsGFPPVerticalAnchorMenu":"new","se_DStestTemp":"true","specs.marketplace.editorx-for-14d84998-ae09-1abf-c6fc-3f3cace5bf19":"true","se_wixBooking_6thButtonWithLinkToPagesPanel":"old","apd_clientGalleriesSection":"false","se_directClickOnTopBarUpgrade":"false","specs.ascend.AscendAwareness":"true","specs.wixCode.codeReuseShowTestVersion":"true","specs.wixCode.exposeBeFeaturesFile":"true","se_stylablePanelVerticalMode":"A","se_newQABSocialNetworks":"new","specs.ident.MembersSettingsFullPage":"true","se_sectionBoExposer":"true"},"languageCode":"vi","metaSiteTemplate":false,"siteMetaData":{"preloader":{"uri":"","enabled":false},"contactInfo":{"companyName":"","phone":"","fax":"","email":"","address":""},"hasMobileStructure":false,"quickActions":{"socialLinks":[],"colorScheme":"dark","configuration":{"quickActionsMenuEnabled":false,"navigationMenuEnabled":true,"phoneEnabled":false,"emailEnabled":false,"addressEnabled":false,"socialLinksEnabled":false}},"headTags":"","renderHints":{"containsTPA":true,"isMeshReady":true,"containsAppPart":false,"containsAppPart2":false,"componentsCount":{"wysiwyg.viewer.components.ExpandableMenu":1,"wysiwyg.viewer.components.QuickActionBar":1,"wysiwyg.viewer.components.HeaderContainer":1,"wysiwyg.viewer.components.inputs.TextInput":4,"wysiwyg.viewer.components.FiveGridLine":1,"wysiwyg.viewer.components.VectorImage":1,"wysiwyg.viewer.components.Column":10,"wysiwyg.viewer.components.menus.DropDownMenu":1,"wysiwyg.viewer.components.LinkBar":2,"platform.components.AppWidget":1,"wysiwyg.viewer.components.StripColumnsContainer":7,"wysiwyg.viewer.components.ClassicSection":6,"mobile.core.components.Page":4,"wysiwyg.viewer.components.MenuToggle":1,"wysiwyg.viewer.components.inputs.TextAreaInput":1,"wysiwyg.viewer.components.PagesContainer":1,"wysiwyg.viewer.components.WPhoto":4,"wysiwyg.viewer.components.WRichText":56,"mobile.core.components.Container":25,"wysiwyg.viewer.components.FormContainer":1,"wysiwyg.viewer.components.SiteButton":4,"wysiwyg.viewer.components.BackToTopButton":1,"wysiwyg.viewer.components.tpapps.TPAGluedWidget":1,"wysiwyg.viewer.components.MenuContainer":1,"wysiwyg.viewer.components.PageGroup":1,"wysiwyg.viewer.components.FooterContainer":1},"applications":{"14517e1a-3ff0-af98-408e-2bd6953c36a2":{"widgetsCount":{"14517f3f-ffc5-eced-f592-980aaa0bbb5c":1}},"14ce1214-b278-a7e4-1373-00cebd1bef7c":{"controllersCount":{"wixForms":1}}},"containsInteractions":false,"containsBPVariantsData":false,"isClassicSectionsSite":true}},"previewUrl":"https:\/\/editor.wix.com\/html\/editor\/web\/renderer\/render\/document\/46218bb4-5b2e-41e6-972c-8796c5a6f973?metaSiteId=3b6347c2-0003-402e-b242-5a5bba9de19c&editorSessionId=8d85bd87-d145-4db4-861b-66e136773c31","permissionsInfo":{"loggedInUserId":"a48e382e-8bd6-4319-a3ca-91ed4c6190b9","ownerId":"a48e382e-8bd6-4319-a3ca-91ed4c6190b9","loggedInUserRoles":[{"role":"owner"}],"permissions":[]},"geo":"VNM","metaSiteFlags":["UrlMigrated","UseHttps"],"userProfile":{"firstName":"Mỹ Duyên","imageUrl":"https:\/\/lh3.googleusercontent.com\/a-\/AFdZucqn_d6614B4ovIIEBVuHmmpS-fSvvdriYmSykYNuw%3Ds96-c"},"isDacRollout":false,"willUseTbInPreview":true,"isDraft":false,"mediaAuthToken":"eyJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJhcHA6MzQ2NjQ5MDcwMDI5NzIwNiIsInN1YiI6InNpdGU6M2I2MzQ3YzItMDAwMy00MDJlLWIyNDItNWE1YmJhOWRlMTljIiwiYXVkIjoidXJuOnNlcnZpY2U6ZmlsZS51cGxvYWQiLCJleHAiOjE2NTczMzM1ODgsImlhdCI6MTY1NzI0NzE4OCwianRpIjoiYTExTWFINVVvV3RGcHZzUTVPemh4QSIsImFkZGVkQnkiOiJ1c2VyOmE0OGUzODJlLThiZDYtNDMxOS1hM2NhLTkxZWQ0YzYxOTBiOSJ9.LafGW2yHozwbJRC2dgOlyAfsfwqND5UzAO-pWJbO63g","isSiteCreationEligible":false}; var serviceTopology = {"scriptsLocationMap":{"dealer-client-api":"https://static.parastorage.com/services/dealer-client-api/4.0.24","dealer-react-viewer":"https://static.parastorage.com/services/dealer-react-viewer/1.36.0","site-generator-statics-metadata":"https://static.parastorage.com/services/site-generator-statics-metadata/1.1703.0","editor-platform-host-integration":"https://static.parastorage.com/services/editor-platform-host-integration/1.2208.0","account-team-client":"https://static.parastorage.com/services/account-team-client/1.2580.0","santa-editor":"https://static.parastorage.com/services/santa-editor/1.14090.0","wix-code-classic-editor":"https://static.parastorage.com/services/wix-code-classic-editor/1.1279.1531","wix-code-viewer-app":"https://static.parastorage.com/services/wix-code-viewer-app/1.1479.539","marketplace-component":"https://static.parastorage.com/services/marketplace-component/1.3994.0","react-dealer-viewer":"https://static.parastorage.com/services/react-dealer-viewer/2.0.43","editor-presets-bundle":"https://static.parastorage.com/services/editor-presets-bundle/1.350.0","dbsm-viewer-app":"https://static.parastorage.com/services/dbsm-viewer-app/1.4885.0","fallback-viewer-app":"https://static.parastorage.com/services/fallback-viewer-app/1.0.0","responsive-editor-common-infra":"https://static.parastorage.com/services/responsive-editor-common-infra/1.1756.0","wix-bolt":"https://static.parastorage.com/services/wix-bolt/1.7777.0","dealer-cms-translations":"https://static.parastorage.com/services/dealer-cms-translations/1.5854.0","promote-analytics-adapter":"https://static.parastorage.com/services/promote-analytics-adapter/2.759.0","wix-music-embed":"https://static.parastorage.com/services/wix-music-embed/1.26.0","santa-resources":"https://static.parastorage.com/services/santa-resources/1.2.0","wixapps":"https://static.parastorage.com/services/wixapps/2.486.0","js-platform-editor-sdk":"https://static.parastorage.com/services/js-platform-editor-sdk/1.2970.0","ecommerce":"https://static.parastorage.com/services/ecommerce/1.203.0","advanced-seo-client":"https://static.parastorage.com/services/advanced-seo-client/2.221.0","dbsm-editor-app":"https://static.parastorage.com/services/dbsm-editor-app/1.7692.0","santa-platform-apps-container":"https://static.parastorage.com/services/santa-platform-apps-container/1.1293.0","langs":"https://static.parastorage.com/services/langs/2.577.0","responsive-editor":"https://static.parastorage.com/services/responsive-editor/1.2726.0","semi-native-sdk":"https://static.parastorage.com/services/semi-native-sdk/1.8.0","automation":"https://static.parastorage.com/services/automation/1.23.0","wix-code-editor-app":"https://static.parastorage.com/services/wix-code-editor-app/1.1667.285","wix-thunderbolt":"https://static.parastorage.com/services/wix-thunderbolt/1.10432.0","identity-fed-common":"https://static.parastorage.com/services/identity-fed-common/2.0.44","web":"https://static.parastorage.com/services/web/2.1229.80","sitemembers":"https://static.parastorage.com/services/sm-js-sdk/1.31.0","notifications-widget-component":"https://static.parastorage.com/services/notifications-widget-component/1.1033.0","responsive-blocks-packages":"https://static.parastorage.com/services/responsive-blocks-packages/1.4131.0","universal-editor-app":"https://static.parastorage.com/services/universal-editor-app/1.1980.0","editor-elements":"https://static.parastorage.com/services/editor-elements/1.9086.0","responsive-editor-migration":"https://static.parastorage.com/services/responsive-editor-migration/1.1519.0","tpa":"https://static.parastorage.com/services/tpa/2.1065.0","add-panel-data-classic-editor":"https://static.parastorage.com/services/add-panel-data-classic-editor/1.1294.0","wix-code-platform":"https://static.parastorage.com/services/wix-code-platform/1.1097.2","responsive-editor-presets-metadata":"https://static.parastorage.com/services/responsive-editor-presets-metadata/1.2205.0","locale-dataset-data":"https://static.parastorage.com/services/locale-dataset-data/1.3528.0","santa":"https://static.parastorage.com/services/santa/1.11783.0","linguist-flags":"https://static.parastorage.com/services/linguist-flags/1.663.0","promote-seo-renderer":"https://static.parastorage.com/services/promote-seo-renderer/1.2.0","skins":"https://static.parastorage.com/services/skins/2.1229.80","santa-site-auth-module":"https://static.parastorage.com/services/santa-site-auth-module/1.9.0","document-management":"https://static.parastorage.com/services/document-management/1.9777.0","responsive-editor-packages":"https://static.parastorage.com/services/responsive-editor-packages/1.10059.0","manage-installed-apps":"https://static.parastorage.com/services/manage-installed-apps/1.1379.0","wixcode-namespaces":"https://static.parastorage.com/services/wixcode-namespaces/1.1035.0","media-gallery-g5":"https://static.parastorage.com/services/media-gallery-g5/1.1588.0","core":"https://static.parastorage.com/services/core/2.1229.80","santa-langs":"https://static.parastorage.com/services/santa-langs/1.11047.0","ck-editor":"https://static.parastorage.com/services/ck-editor/1.87.3","wixmp-sdk":"https://static.parastorage.com/services/wixmp-sdk/1.16.0","marketplace-editor-container":"https://static.parastorage.com/services/marketplace-editor-container/1.2405.578","bootstrap":"https://static.parastorage.com/services/bootstrap/2.1229.80","editorx-santa-editor-bridge":"https://static.parastorage.com/services/editorx-santa-editor-bridge/1.2328.0","members-area-app-definitions":"https://static.parastorage.com/services/members-area-app-definitions/1.741.0","js-platform-apps-configuration":"https://static.parastorage.com/services/js-platform-apps-configuration/1.235.0","wix-code-code-editor":"https://static.parastorage.com/services/wix-code-code-editor/1.1081.0","wix-ui-santa":"https://static.parastorage.com/services/wix-ui-santa/1.1805.0","blocks-client-viewer-app":"https://static.parastorage.com/services/blocks-client-viewer-app/1.1364.0","tpa-gfpp-data":"https://static.parastorage.com/services/tpa-gfpp-data/1.1214.0"},"scriptsVersionsMap":{"santa-data-fixer":"1.1581.0","@wix/santa-main-r":"1.100.0","ghostable-structure-builder":"1.150.0","santa-main-r":"1.100.0","simple-all-pages":"1.0.0","@wix/santa-data-fixer":"1.1581.0","remote-widget-structure-builder":"1.233.0","santa-site-metadata":"1.2043.0","stylable-santa-flatten":"2.0.222","ghostable-builder":"1.3.0"},"staticHTMLComponentUrl":"https://3b6347c2-0003-402e-b242-5a5bba9de19c.filesusr.com/","serverName":"wix.com","siteAssetsServerUrl":"https://siteassets.parastorage.com/pages","htmlComponentServer":"https://0.htmlcomponentservice.com","wixCloudSiteExtensionsServiceUrl":"https://editor.wix.com/wix-code-service","appMarketEditorApiUrl":"https://editor.wix.com/_api/app-market-api/apps","appMarketEditorNewUrl":"https://editor.wix.com/wix-app-market/editor","appMarketEditorUrl":"https://editor.wix.com/app-market-editor","appStoreUrl":"https://editor.wix.com/wix-apps","baseDomain":"wix.com","basePublicUrl":"https://www.wix.com/","biServerUrl":"https://frog.wix.com","blobUrl":"https://static.parastorage.com/wix_blob","commonServicesUrl":"https://api.wix.com/common-services","createFacebookUrl":"https://www.wix.com/create/website/html/facebook/fb/1","createMobileUrl":"https://meditor.wix.com/site/add/","createWebsiteUrl":"https://www.wix.com/create/website/all/all/web","dashboardServiceUrl":"https://dashboard.wix.com/wix-dashboard","dashboardUrl":"https://www.wix.com/create/my-account","developerMode":false,"digitalGoodsServerUrl":"https://dgs.wixapps.net/","directStaticServerUrl":"https://static.42.wix.com/","ecommerceCheckoutUrl":"https://www.safer-checkout.com/","ecommerceStoreManagerUrl":"https://editor.wix.com/ecommerce","editorAssetsBaseUrl":"https://editorassets.parastorage.com/","editorPageStoreUrl":"https://fallback.wix.com/wix-html-editor-pages-webapp/pageForEditor","editorServerRoot":"https://editor.wix.com/html/editor/web","appStudioServerRoot":"https://editor.wix.com/html/app-builder/web","editorServerRootFB":"https://editor.wix.com/html/editor/fb","emailServer":"https://assets.wix.com/common-services/notification/invoke","floggerUrl":"https://frog.wix.com","helpServer":"https://lc.wix.com/support/main/html5","htmlEditorRootUrl":"https://editor.wix.com/html/editor","locationBaseDomain":"42.wix.com","locationStaticServerRootUrl":"https://static.42.wix.com","locationStaticServerUrl":"https://static.42.wix.com/","mediaGalleryBaseUrl":"https://editor.wix.com/_partials/media-gallery-ng/0.354.0/","mediaGalleryBaseUrlB":"https://editor.wix.com/_partials/media-gallery-ng/0.354.0/","mediaGalleryG5BaseUrl":"https://editor.wix.com/_partials/media-gallery-g5/1.1588.0/","mediaGalleryG5StaticBaseUrl":"//static.parastorage.com/services/media-gallery-g5/1.1588.0/","mediaGalleryStaticBaseUrl":"//static.parastorage.com/services/media-gallery-ng/0.354.0/","mediaGalleryStaticBaseUrlB":"//static.parastorage.com/services/media-gallery-ng/0.354.0/","mediaManagerUrl":"https://editor.wix.com/_partials/media-gallery-g5/1.1588.0/","mediaManagerFrameUrl":"https://static.parastorage.com/unpkg-semver/media-frame@%5E1/MediaFrame.bundle.min.js","mediaRootUrl":"https://static.wixstatic.com/","mediaServerRoot":"wix.com","nestedComponentsMapUrl":"","premiumServerUrl":"https://premium.wix.com","premiumStateApiUrl":"https://editor.wix.com/_api/wix/getTpaPremiumState","productionMode":true,"publicPageStoreUrl":"https://publicorigin.wix.com/wix-public-html-renderer/page","publicStaticBaseUri":"//static.parastorage.com/services/wix-public/1.299.0/","publicStaticsUrl":"//static.parastorage.com/services/wix-public/1.299.0/","screenshotServiceUrl":"https://screenshoter.wixpress.com/v1/screenshots","scriptsDomainUrl":"https://static.parastorage.com/","siteMembersUrl":"https://users.wix.com/wix-sm","staticAudioUrl":"https://music.wixstatic.com/mp3","staticDocsUrl":"https://docs.wixstatic.com/ugd","staticMediaUrl":"https://static.wixstatic.com/media","staticServerFallbackUrl":"https://static.parastorage.com/","staticServerUrl":"https://static.parastorage.com/","staticVideoUrl":"https://video.wixstatic.com/","wixCloudBaseDomain":"wix-code.com","wixCloudEditorBaseUrl":"https://editor.wix.com/wix-code-ide-server","wixCodeIdeServerUrl":"https://code.wix.com/wix-code-ide-server","wixCodeServiceUrl":"https://code.wix.com/wix-code-service","wixCloudMonitoringHubUrl":"https://editor.wix.com/_api/cloud-monitoring-hub","wixCodeMonitoringHubUrl":"https://monitoringhub.wix.com","staticVideoHeadRequestUrl":"https://storage.googleapis.com/video.wixstatic.com","wixStoresMigrationServiceUrl":"https://editor.wix.com/_api/wix-ecommerce-migration-web/","feedbackServiceUrl":"https://editor.wix.com/_api/feedback-server","salesSystemResolverUrl":"https://editor.wix.com/_api/wix/salesSystemResolver","dealerUrl":"https://editor.wix.com/_api/wix-dealer-integration-webapp","mediaUploadServerUrl":"https://files.wix.com/","adaptiveVideoDomain":"https://files.wix.com/","userFileDomainUrl":"filesusr.com","businessManagerUrl":"https://manage.wix.com/dashboard","linguistUrl":"/_api/linguist","editorWorkerBaseUrl":"https://editor.wix.com/_partials","businessManagerDomain":"https://manage.wix.com","editorRootUrl":"https://editor.wix.com/"}; 
+var debugMode = "nodebug";
+var siteId = '46218bb4-5b2e-41e6-972c-8796c5a6f973';
+
+var siteHeader =  {"id":"46218bb4-5b2e-41e6-972c-8796c5a6f973","userId":"a48e382e-8bd6-4319-a3ca-91ed4c6190b9","revision":8,"version":1657247184036,"applicationType":"HtmlWeb","documentType":"document","published":true,"pageIdList":{"masterPageJsonFileName":"a48e38_3f64aa66702b9dc35fe2a929c7f40dad_8.json","topology":["https:\/\/static.wix.com\/sites\/{filename}.z?v=3","https:\/\/fallback.wix.com\/wix-html-editor-pages-webapp\/pageForEditor\/{filename}?v=3"],"pages":[{"pageId":"e05d8","title":"CONTACT","pageJsonFileName":"a48e38_48b1f8e93755792f5409de66c756e00d_3.json"},{"pageId":"e4mcl","title":"RESUME","pageJsonFileName":"a48e38_5be8bf2e231b9447d0ac815aded85aaa_4.json"},{"pageId":"klk7a","title":"Trang Chủ","pageJsonFileName":"a48e38_da0337ecbaea9bedc8a4f69b1e136549_8.json"},{"pageId":"wx2p3","title":"PROJECTS","pageJsonFileName":"a48e38_74d945318205f74b82c8317cdd1c451e_2.json"}]},"originalTemplateId":"7e761c3c-729b-4d4e-9dc3-a8242c486f56"}; ;
+var editorVersionsInfo = {"userOverride":"none","isEligibleForSwitch":false,"isNewUser":true};
+var commonConfig = {"brand":"wix"};        var shiftedFromHtmlToNewEditor = true;
+    </script>
+    </head>
+
+<body>
+
+    <div id="video-preloader" class="video-preloader">
+    <video id="editor-video-preloader" width=320 height=320 poster="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACwAAAAAAQABAAACAkQBADs=" loop autoplay muted=true></video>
+    <script>
+        // editor assets serving domain
+        var videoElement = document.getElementById('editor-video-preloader');
+        var devicePixelRatio = window.devicePixelRatio || window.screen.deviceXDPI / window.screen.logicalXDPI;
+        var retinaSuffix = devicePixelRatio >= 2 ? "-@2x" : "";
+
+        var videoVersion = ".v2";
+        videoElement.width = 200;
+        videoElement.height = 200;
+        videoElement.src = "https://static.parastorage.com/services/santa-resources/resources/editor/preloader/videoPreloader-4" + retinaSuffix + videoVersion + ".mp4";
+        videoElement.load();
+    </script>
+</div>
+<div id="root"></div>
+<script type="text/javascript">
+    var santaBase = 'https://static.parastorage.com/services/santa/1.11783.0';
+    var editorBase = 'https://static.parastorage.com/services/santa-editor/1.14090.0';
+    var editorVersionSource = 'production';
+</script>
+
+<script src="https://static.parastorage.com/services/third-party/requirejs/2.1.15/require.min.js" crossorigin="anonymous"></script>
+<script src="https://static.parastorage.com/polyfill/v3/polyfill.min.js?flags=gated&features=es2019%2Ces2018%2Ces2017%2Ces2016%2Ces2015%2Cdefault%2Cfetch%2CIntersectionObserver%2CIntersectionObserverEntry%2Ces2021" crossorigin="anonymous"></script>
+<script src="https://static.parastorage.com/services/santa-editor/1.14090.0/init.bundle.js" crossorigin="anonymous"></script>
+<script src="https://static.parastorage.com/services/santa-editor/1.14090.0/dist/bundle/main.min.js" crossorigin="anonymous"></script>
+
+
+</body>
+</html>
    
