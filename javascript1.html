@@ -1,0 +1,241 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <style>
+    @import url('https://fonts.googleapis.com/css?family=Noto+Sans:400,400i,700,700i&subset=greek-ext');
+body{
+	background-image: url("https://img.freepik.com/free-vector/white-abstract-background_23-2148810113.jpg?w=2000");
+	background-position: center;
+    background-origin: content-box;
+    background-repeat: no-repeat;
+    background-size: cover;
+	min-height:100vh;
+	font-family: 'Noto Sans', sans-serif;
+}
+h1{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+label{
+    font-family: cursive;
+}
+#noidung{
+    background-color: red;
+    height:250px;
+    width:100%;
+    min-height: 100px;
+    border-radius: 30px;
+    font-size:25px;
+    text-align: center;
+    line-height: 250px;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+}
+
+.text-center{
+	color:black;	
+	text-transform:uppercase;
+    font-size: 23px;
+    margin: -50px 0 80px 0;
+    display: block;
+    text-align: center;
+    font-family: cursive;
+}
+.box{
+	position:absolute;
+	left:50%;
+	top:50%;
+	transform: translate(-50%,-50%);
+  background-color: rgba(0, 0, 0, 0.89);
+	border-radius:3px;
+	padding:70px 100px;
+}
+.input-container{
+	position:relative;
+	margin-bottom:25px;
+}
+.input-container label{
+	position:absolute;
+	top:0px;
+	left:0px;
+	font-size:16px;
+	color: black;	
+	transition: all 0.5s ease-in-out;
+}
+.input-container input{ 
+  border:0;
+  border-bottom:1px solid #555;  
+  background:transparent;
+  width:15%;
+  padding:8px 0 5px 0;
+  font-size:16px;
+  color: black;
+}
+.input-container input:focus{ 
+ border:none;	
+ outline:none;
+ border-bottom:1px solid #e74c3c;	
+}
+
+.input-container input:focus ~ label,
+.input-container input:valid ~ label{
+	top:-20px;
+	font-size:20px;
+	
+}
+
+.toanbo{
+    display: flex;
+}
+.nut{
+    justify-content: center;
+}
+
+.wrap {
+  height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.button {
+  min-width: 300px;
+  min-height: 60px;
+  font-family: 'Nunito', sans-serif;
+  font-size: 22px;
+  text-transform: uppercase;
+  letter-spacing: 1.3px;
+  font-weight: 700;
+  color: #313133;
+  background: #4FD1C5;
+  background: linear-gradient(90deg, rgba(129,230,217,1) 0%, rgba(79,209,197,1) 100%);
+  border: none;
+  border-radius: 1000px;
+  box-shadow: 12px 12px 24px rgba(79,209,197,.64);
+  transition: all 0.3s ease-in-out 0s;
+  cursor: pointer;
+  outline: none;
+  position: relative;
+  padding: 10px;
+  margin-right: 60px;
+  }
+
+button::before {
+content: '';
+  border-radius: 1000px;
+  min-width: calc(300px + 12px);
+  min-height: calc(60px + 12px);
+  border: 6px solid #00FFCB;
+  box-shadow: 0 0 60px rgba(0,255,203,.64);
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  opacity: 0;
+  transition: all .3s ease-in-out 0s;
+}
+
+.button:hover, .button:focus {
+  color: #313133;
+  transform: translateY(-6px);
+}
+
+button:hover::before, button:focus::before {
+  opacity: 1;
+}
+
+button::after {
+  content: '';
+  width: 30px; height: 30px;
+  border-radius: 100%;
+  border: 6px solid #00FFCB;
+  position: absolute;
+  z-index: -1;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  animation: ring 1.5s infinite;
+}
+
+button:hover::after, button:focus::after {
+  animation: none;
+  display: none;
+}
+@keyframes ring {
+  0% {
+    width: 30px;
+    height: 30px;
+    opacity: 1;
+  }
+  100% {
+    width: 300px;
+    height: 300px;
+    opacity: 0;
+  }
+}
+
+@media screen and (max-width: 985px){
+  .wrap {
+    display: block;
+    text-align: center;
+}
+.g{
+  margin: 15px;
+}
+  
+}
+
+</style>
+    </head>
+    <body>
+      <div>
+        <h1>Bài tập JavaScript</h1><br>
+      </div>
+
+        <form id="myForm" action="">
+        <span class="text-center">nhập giá trị sau : </span>
+        <div class="input-container">
+        <input id="textbox1" name="textname" required="" type="text" /></p>
+        <label>Nhập tên</label>
+        </div>
+        <div class="input-container">
+            <input id="textbox2" name="n" required="" type="text" /></p>
+            <label>Nhập giá trị n</label>
+        </div>
+       </form>
+        <p id="noidung"></p>
+        <div class="wrap">
+            <button class="button g" type="hienthi margin-right" onclick="hienthi()">Hiển thị </button>
+            
+            <button class="button g" type="tinhtong margin-right" onclick="tinhtong()">Tính tổng</button>
+            
+            <button class="button g" type="tinhtongchan" onclick="tinhtongchan()">Tính tổng chẵn</button>
+        </div>
+
+        <script>
+          function hienthi() {
+          const value = document.forms["myForm"].textname.value
+          if (!value) alert("Vui lòng nhập tên")
+          else document.getElementById("noidung").innerHTML = "Xin chào! Tôi là : " + value;
+          }
+          function tinhtong() {
+                  let text =0;
+                  for( let i=1 ; i<=document.forms["myForm"].n.value;i++){
+                       text +=i;
+                  }
+          const value = document.forms["myForm"].n.value
+          if (!value) alert("Vui lòng nhập n")
+	        else  document.getElementById("noidung").innerHTML ="Tổng từ 1 đến " +  document.forms["myForm"].n.value + " là: "+text;
+          }
+          function tinhtongchan() {
+                  let text =0;
+                  for( let i=1 ; i<=document.forms["myForm"].n.value;i++){
+                    if(i%2==0){
+                       text +=i;
+                  }
+                }
+          const value = document.forms["myForm"].n.value
+          if (!value) alert("Vui lòng nhập n")      
+	        document.getElementById("noidung").innerHTML ="Tổng các số chẵn từ 1 đến " +  document.forms["myForm"].n.value + " là: "+text;
+              }
+        </script>    
+     </body>
+</html>
