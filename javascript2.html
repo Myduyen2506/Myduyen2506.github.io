@@ -1,0 +1,262 @@
+<html>
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <style>
+      * {
+        box-sizing: border-box;
+        margin: 0;
+        padding: 0;
+      }
+      body {
+        font-family: "Courier New", Courier, monospace;
+        background-color: pink;
+      }
+      section {
+        display: flex;
+        justify-content: center;
+        height: 100%;
+      }
+      .container {
+        display: flex;
+        width: 60rem;
+        border-radius: 30px;
+        margin: auto;
+        background: #dfbb9d;
+      }
+      .input-data {
+        display: flex;
+        align-items: center;
+        width: 100%;
+        padding: 2em;
+      }
+      input[type="submit"],
+      input[type="reset"] {
+        width: 10.8rem;
+        padding: 0.9em 0;
+      }
+      form > *,
+      content > * {
+        padding-bottom: 1em;
+      }
+      .flex {
+        display: flex;
+      }
+      .gender > * {
+        padding-left: 2em;
+      }
+      .hobby {
+        flex-direction: column;
+      }
+      .hobby > * {
+        padding-left: 2em;
+        padding-bottom: 0.5em;
+      }
+      .button {
+        padding: 0;
+      }
+      .output-data {
+        display: flex;
+        align-items: center;
+        width: 100%;
+        background: #f7e2d6;
+        border-radius: 0px 30px 30px 0px;
+      }
+      .content > * {
+        padding-left: 2em;
+        padding-bottom: 1em;
+        padding: 35px;
+      }
+      .input-container {
+        position: relative;
+        margin-bottom: 25px;
+      }
+      input[type="text"],
+      select {
+        width: 70%;
+        padding: 12px 20px;
+        margin: 6px;
+        display: inline-block;
+        border: 1px solid #ccc;
+        border-radius: 20px;
+        box-sizing: border-box;
+      }
+
+      input[type="submit"] {
+        width: 50%;
+        background-color: #4caf50;
+        color: white;
+        padding: 14px 20px;
+        margin: 8px 0;
+        border: none;
+        border-radius: 15px;
+        cursor: pointer;
+      }
+
+      input[type="submit"]:hover {
+        background-color: orange;
+      }
+
+      input[type="reset"] {
+        background-color: pink;
+        color: white;
+        padding: 14px 20px;
+        margin: 8px 0;
+        border: none;
+        border-radius: 15px;
+        cursor: pointer;
+      }
+
+      input[type="reset"]:hover {
+        background-color: red;
+      }
+
+      @media (max-width: 60rem) {
+        .container {
+          flex-direction: column;
+        }
+        .content {
+          display: flex;
+          flex-direction: column;
+          justify-content: center;
+          height: auto;
+        }
+        .output-data {
+          height: auto;
+        }
+        section {
+          display: block;
+        }
+      }
+    </style>
+  </head>
+  <body>
+    <section>
+      <div class="container">
+        <div class="input-data">
+          <form id="user-detail">
+            <div class="input-container">
+              <label for="name">Họ và Tên : </label>
+              <input
+                type="text"
+                id="user-name"
+                placeholder="Nhập họ và tên..."
+              />
+            </div>
+            <div class="input-container">
+              <label for="name">Địa chỉ email : </label>
+              <input
+                type="text"
+                id="user-email"
+                placeholder="Nhập địa chỉ email..."
+              />
+            </div>
+
+            <label for="gender">Giới Tính : </label>
+            <div class="flex gender">
+              <div class="male">
+                <input
+                  type="radio"
+                  name="gender"
+                  value="Nam"
+                  id="user-gender"
+                />
+                <label for="male">Nam</label>
+              </div>
+              <div class="female">
+                <input type="radio" name="gender" value="Nữ" id="user-gender" />
+                <label for="female">Nữ</label>
+              </div>
+            </div>
+
+            <div class="nation">
+              <label for="nation">Quốc Tịch:</label>
+              <select name="nationality" id="user-nation">
+                <option></option>
+                <option>Việt Nam</option>
+                <option>Ấn Độ</option>
+                <option>Indonesia</option>
+                <option>Nhật Bản</option>
+                <option>Khác</option>
+              </select>
+            </div>
+
+            <label for="hobby">Sở Thích : </label>
+            <div class="flex hobby">
+              <div class="coding">
+                <input type="checkbox" name="hobby" value="Lập Trình" />
+                <label for="coding">Du Lịch</label>
+              </div>
+              <div class="travel">
+                <input type="checkbox" name="hobby" value="Du Lịch" />
+                <label for="travel">Chơi Game</label>
+              </div>
+            </div>
+
+            <div class="button">
+              <input type="submit" value="Xác Nhận" id="submit" />
+              <input type="reset" value="Hủy" id="reset" />
+            </div>
+          </form>
+        </div>
+
+        <div class="output-data">
+          <div class="content">
+            <p class="content-name">Họ và Tên :</p>
+            <p class="content-email">Địa Chỉ Email :</p>
+            <p class="content-gender">Giới Tính :</p>
+            <p class="content-nation">Quốc Tịch :</p>
+            <p class="content-hobby">Sở Thích :</p>
+          </div>
+        </div>
+      </div>
+    </section>
+  </body>
+  <script>
+    const contentOutput = {
+      ".content-name": "id",
+      ".content-email": "id",
+      ".content-gender": "name",
+      ".content-nation": "id",
+      ".content-hobby": "name",
+    };
+
+    const idValues = {
+      "user-name": "Họ và Tên",
+      "user-email": "Địa Chỉ Email",
+      gender: "Giới Tính",
+      "user-nation": "Quốc Tịch",
+      hobby: "Sở Thích",
+    };
+
+    document.getElementById("submit").addEventListener("click", (e) => {
+      e.preventDefault();
+      const ouputs = Object.keys(contentOutput);
+      ouputs.forEach((e, i) => {
+        const id = Object.keys(idValues)[i];
+        const getType = contentOutput[e];
+        let value;
+        if (getType === "id") value = document.getElementById(id).value;
+        else if (getType === "name") {
+          let passed = [];
+          document.getElementsByName(id).forEach((e) => {
+            if (e.checked) passed.push(e.value);
+          });
+          value = passed.join(", ");
+        }
+        document.querySelector(e).textContent = `${idValues[id]} : ${
+          value.length ? `${value}` : ""
+        }`;
+      });
+    });
+
+    document.getElementById("reset").addEventListener("click", (e) => {
+      const ouputs = Object.keys(contentOutput);
+      const samples = Object.values(idValues)
+
+      ouputs.forEach((e,i) => {
+        document.querySelector(e).textContent = `${samples[i]} :`;
+      });
+    });
+  </script>
+</html>
