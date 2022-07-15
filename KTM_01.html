@@ -1,0 +1,185 @@
+<html>
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <style>
+      * {
+        box-sizing: border-box;
+        margin: 0;
+        padding: 0;
+      }
+      body {
+        font-family: "Courier New", Courier, monospace;
+        background-color: coral;
+      }
+      section {
+        display: flex;
+        justify-content: center;
+        height: 100%;
+      }
+      .container {
+        display: flex;
+        width: 60rem;
+        border-radius: 30px;
+        margin: auto;
+        background: #dfbb9d;
+      }
+      .input-data {
+        display: flex;
+        align-items: center;
+        width: 100%;
+        padding: 2em;
+      }
+      input[type="submit"],
+      input[type="reset"] {
+        width: 10.8rem;
+        padding: 0.9em 0;
+      }
+      form > *,
+      content > * {
+        padding-bottom: 1em;
+      }
+      .flex {
+        display: flex;
+      }
+      .gender > * {
+        padding-left: 2em;
+      }
+      .hobby {
+        flex-direction: column;
+      }
+      .hobby > * {
+        padding-left: 2em;
+        padding-bottom: 0.5em;
+      }
+      .button {
+        padding: 0;
+      }
+      .output-data {
+        display: flex;
+        align-items: center;
+        width: 100%;
+        background: #f7e2d6;
+        border-radius: 0px 30px 30px 0px;
+      }
+      .content > * {
+        padding-left: 2em;
+        padding-bottom: 1em;
+        padding: 35px;
+      }
+      .input-container {
+        position: relative;
+        margin-bottom: 25px;
+      }
+      input[type="text"],
+      select {
+        width: 50%;
+        padding: 12px 20px;
+        margin: 6px;
+        display: inline-block;
+        border: 1px solid #ccc;
+        border-radius: 20px;
+        box-sizing: border-box;
+      }
+
+      input[type="submit"] {
+        width: 50%;
+        background-color: #4caf50;
+        color: white;
+        padding: 14px 20px;
+        margin: 8px 0;
+        border: none;
+        border-radius: 15px;
+        cursor: pointer;
+      }
+
+      input[type="submit"]:hover {
+        background-color: #00ff66ac;
+        color:while;
+        padding: 14px 20px;
+        margin: 8px 0;
+        border: none;
+        border-radius: 100px;
+        cursor: pointer;
+      }
+
+      input[type="reset"] {
+        background-color: #ff0000;
+        color:while;
+        padding: 10px 8px;
+        margin: 2px 0;
+        border: none;
+        border-radius: 20px;
+        cursor: pointer;
+      }
+
+      input[type="reset"]:hover {
+        background-color: #ff271057;
+      }
+
+      @media (max-width: 60rem) {
+        .container {
+          flex-direction: column;
+        }
+        .content {
+          display: flex;
+          flex-direction: column;
+          justify-content: center;
+          height: auto;
+        }
+        .output-data {
+          height: auto;
+        }
+        section {
+          display: block;
+        }
+      }
+    </style>
+    <section>
+     <div class="contauner">
+        <div class="input-data">
+        </div>
+     </div>
+<form>
+ Toán:
+ <input type="text" name="number" id="toan">
+ <br><br>
+ Văn:
+ <input type="text" name="number" id="van"><br><br>
+ Hạnh Kiểm
+  <br>
+ <input type="radio" name="grade" value="Đạt">Đạt&nbsp&nbsp&nbsp
+ <input type="radio" name="grade" value="Không Đạt">Không Đạt&nbsp&nbsp
+ 
+ <div class="button">
+    <input type="button" value="Kiểm Tra" id="submit" onclick="myFunction()">
+    <input type="reset" value="Hủy" id="reset">
+</div>
+</form>
+<div class="output-data">
+    <div class="content"></div>
+    </div>
+</div>
+</section>
+</body>
+<body>
+
+<script type="text/javascript">
+    function myFunction() {
+        var toan = document.getElementById('toan').value;
+        var van = document.getElementById('van').value;
+        var grades = document.getElementsByName('grade');
+        grades.forEach(grade => {
+            if (grade.checked === true) {
+                var result = (parseInt(toan) + parseInt(van)) / 2;
+                if(grade.value == "Đạt" && result >= 5){
+                    document.querySelector('.content').textContent = 'Lên Lớp';
+                } else {
+                    document.querySelector('.content').textContent = 'Ở Lại Lớp';
+                }
+            }
+        })
+    }
+</script>
+</body>
+</html>
