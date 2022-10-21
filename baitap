@@ -1,0 +1,36 @@
+
+function date(){
+    var month = 7;
+    if( month === 1 || month === 2 || month === 3 ){
+        console.log("Quy dau tien",month);
+    } else if (month === 4 || month === 5 || month === 6) {
+        console.log("Quy thu 2",month);
+    } else if (month === 7 || month === 8 || month === 9) {
+        console.log("Quy thu 3",month) 
+    } else {
+        console.log("Quy thu 4",month);
+    }
+
+}
+date()
+function soLe(){
+   
+    for(let i = 1; i < 20; i++) {
+        if(i % 2 !== 0) {
+           console.log("sole",i);
+        }
+    }
+  
+}
+soLe();
+
+function dtb() {
+    var dtb;
+    var fullName = "hoang thai";
+    var toan = 9;
+    var van = 9;
+    
+    dtb = (toan + van) / 2;
+    console.log("Tong diem",dtb);
+}
+dtb();
